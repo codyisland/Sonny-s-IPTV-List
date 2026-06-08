@@ -47,721 +47,95 @@
     <display-name lang="en">Monarch</display-name>
     <url>http://www.distro.tv</url>
   </channel>
-  <programme start="20260524010000 +0200" stop="20260524010500 +0200" channel="Das Erste HD">
+  <programme start="20260608010500 +0200" stop="20260608011000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260524010500 +0200" stop="20260524023500 +0200" channel="Das Erste HD">
-    <title lang="hr">Allmen</title>
-    <desc lang="hr">Allmen und das Geheimnis des rosa Diamanten. Johann Friedrich von Allmen und sein Butler widmen sich der Wiederbeschaffung von geraubten Kunstwerken. Diesmal geht es um einen rosa Diamanten, hinter dem aber noch jemand anderer her ist.(n)</desc>
+  <programme start="20260608011000 +0200" stop="20260608024300 +0200" channel="Das Erste HD">
+    <title lang="hr">Der Zauber Des Regenbogens</title>
+    <desc lang="hr">Die Architektin Lea Winter steht gerade vor dem beruflichen Durchbruch, als sie plötzlich von ihrem verheirateten Chef schwanger wird. Um ihre Zukunftsplanung zu überdenken, flüchtet sie nach Irland.(n)</desc>
     <credits>
-      <director>Thomas Berger</director>
-      <director>Martin Rauhaus</director>
-      <actor>Heino Ferch</actor>
-      <actor>Samuel Finzi</actor>
-      <actor>Andrea Osvárt</actor>
-      <actor>Tomas Spencer</actor>
-      <actor>Daniel Wagner</actor>
-      <actor>Nora Waldstätten</actor>
-      <actor>Isabella Parkinson</actor>
-      <actor>Alexander Finkenwirth</actor>
-      <actor>Oscar Ortega Sánchez</actor>
-      <actor>Peter Jecklin</actor>
-      <writer>Martin Rauhaus</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8b41cdcd9ea24ce0af5ce782ddec4991_thumb.jpg" />
-  </programme>
-  <programme start="20260524023500 +0200" stop="20260524040500 +0200" channel="Das Erste HD">
-    <title lang="hr">Mordkommission Istanbul</title>
-    <desc lang="hr">Die Tote in der Zisterne. Kommissar Özakin wird von seinem Freund, dem Restaurantbesitzer Yunus, auf das Verschwinden einer deutschen Touristen aufmerksam gemacht. Kurz darauf wird eine Tote in der Zisterne entdeckt.(n)</desc>
-    <credits>
-      <director>Michael Steinke</director>
+      <director>Dagmar Damek</director>
+      <actor>Sandra Speichert</actor>
       <actor>Erol Sander</actor>
-      <actor>Christine Neubauer</actor>
-      <actor>Oscar Ortega Sánchez</actor>
-      <actor>Idil Üner</actor>
-      <actor>Sesede Terziyan</actor>
-      <actor>Aykut Kayacik</actor>
-      <actor>Eda Özerkan</actor>
-      <actor>Erden Alkan</actor>
-      <actor>Ilkay Akdagli</actor>
-      <actor>Alper Kul</actor>
-      <writer>Mathias Klaschka</writer>
+      <actor>Pierre Besson</actor>
+      <actor>Marisa Leonie Bach</actor>
+      <actor>Adrian Wahlen</actor>
+      <actor>Bernhard Bettermann</actor>
+      <actor>Peter Raffalt</actor>
+      <actor>Bruno F. Apitz</actor>
+      <actor>Torsten Buchsteiner</actor>
+      <actor>Frank Kessler</actor>
+      <writer>Martina Brand</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/757c1c62d3554c9cabfef62548d877f8_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0bac1774df1d450c877ee2e92c9ff70a_thumb.jpg" />
   </programme>
-  <programme start="20260524040500 +0200" stop="20260524043500 +0200" channel="Das Erste HD">
-    <title lang="hr">Meister Des Alltags</title>
-    <desc lang="hr">Muss man für Mängel aufkommen, wenn man seinen alten Kram auf dem Flohmarkt verkauft? Ist Rosenkohl schlecht für Gichtpatientinnen und Gichtpatienten?(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4598996dc1f54a3e91b11c5602818248_thumb.jpg" />
-  </programme>
-  <programme start="20260524043500 +0200" stop="20260524044300 +0200" channel="Das Erste HD">
-    <title lang="hr">Deutschlandbilder</title>
-    <desc lang="hr">Deutsche Landschaften, Städte, Inseln: Begleiten Sie uns zu den schönsten Plätzen Deutschlands.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/286a4737b63245ad8335dba11f4b55e4_thumb.jpg" />
-  </programme>
-  <programme start="20260524044300 +0200" stop="20260524044500 +0200" channel="Das Erste HD">
+  <programme start="20260608024300 +0200" stop="20260608024500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260524044500 +0200" stop="20260524053000 +0200" channel="Das Erste HD">
-    <title lang="hr">In Höchster Not – Bergretter Im Einsatz</title>
-    <desc lang="hr">Lebensgefahr im Höllental. Ein Einsatz am Höllentalgletscher der Zugspitze eskaliert innerhalb kürzester Zeit zu einem komplexen Großeinsatz. Ein plötzlich aufziehendes Unwetter verschärft die Situation dramatisch.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8b4694a3d1ae4aeab151b9e7bf6fe9fc_thumb.jpg" />
+  <programme start="20260608024500 +0200" stop="20260608034500 +0200" channel="Das Erste HD">
+    <title lang="hr">Caren Miosga</title>
+    <desc lang="hr">Die SPD steht unter Druck wie selten zuvor: Im aktuellen ARD-DeutschlandTrend liegt die Partei bei dreizehn Prozent, ihre klassische Anhängerschaft wählt immer häufiger die AfD.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c81ab70b81014be6b394b7945485b252_thumb.jpg" />
   </programme>
-  <programme start="20260524053000 +0200" stop="20260524055500 +0200" channel="Das Erste HD">
-    <title lang="hr">Schau In Meine Welt</title>
-    <desc lang="hr">Bolivien – Ada und die Reise ihres Lebens. Ada ist 13 Jahre alt und wächst zwischen zwei Kulturen auf. Diesen Sommer fliegt sie von Berlin nach Bolivien, um einen Teil ihrer Familie kennenzulernen.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7d853d1734f14df992b89064eaab9ec7_thumb.jpg" />
+  <programme start="20260608034500 +0200" stop="20260608041500 +0200" channel="Das Erste HD">
+    <title lang="hr">Ttt – Titel, Thesen, Temperamente</title>
+    <desc lang="hr">Kulturkampf in Sachsen-Anhalt: Wie frei ist die Kunst, wenn die AfD mitregiert?(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1d3e99a0cc4345288c03dba21583bb6e_thumb.jpg" />
   </programme>
-  <programme start="20260524055500 +0200" stop="20260524072500 +0200" channel="Das Erste HD">
-    <title lang="hr">Lene Und Die Geister Des Waldes</title>
-    <desc lang="hr">Ein siebenjähriges Mädchen aus Mecklenburg-Vorpommern und seine Schwester verbringen die Sommerferien erstmals im Bayerischen Wald. Dort lernen sie viel über Pflanzen und Tiere.(n)</desc>
-    <credits>
-      <director>Dieter Schumann</director>
-      <actor>Lene Frahm</actor>
-      <actor>Lynn Frahm</actor>
-      <actor>Ludwig Strohmeier</actor>
-      <actor>Vinzenz Strohmeier</actor>
-      <writer>Dieter Schumann</writer>
-      <writer>Grit Lemke</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7d04d2119f78441291f04e683e520131_thumb.jpg" />
+  <programme start="20260608041500 +0200" stop="20260608044300 +0200" channel="Das Erste HD">
+    <title lang="hr">Brisant</title>
+    <desc lang="hr">Das Infotainment-Magazin der ARD im Ersten wird in zahlreichen Dritten Programmen wiederholt. Auch im SR Fernsehen von Montag bis Donnerstag, jeweils ab 18.15 Uhr.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/20607aed932f40fc823bad9b1639de33_thumb.jpg" />
   </programme>
-  <programme start="20260524072500 +0200" stop="20260524082500 +0200" channel="Das Erste HD">
-    <title lang="hr">Die Gänseprinzessin</title>
-    <desc lang="hr">Seit der Bruder von Prinzessin Polly vor Jahren verschwand, ist am Hof das Lachen verboten! Das macht das Leben für die fröhliche Polly besonders schwer.(n)</desc>
-    <credits>
-      <director>Frank Stoye</director>
-      <actor>Mina Christ</actor>
-      <actor>Leslie Malton</actor>
-      <actor>Johann von Bülow</actor>
-      <actor>Regula Grauwiller</actor>
-      <actor>Jascha Baum</actor>
-      <actor>Zoran Pingel</actor>
-      <actor>Julia Suzanne Buchmann</actor>
-      <actor>Isabella Ginoccio</actor>
-      <actor>Abbas Ahmadi Motlagh</actor>
-      <actor>Mo Ahmadi</actor>
-      <writer>Katrin Milhahn</writer>
-      <writer>Antonia Rothe</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c48db48affd345cb84db028fd9fca681_thumb.jpg" />
-  </programme>
-  <programme start="20260524082500 +0200" stop="20260524092500 +0200" channel="Das Erste HD">
-    <title lang="hr">Der Geist Im Glas</title>
-    <desc lang="hr">Die junge Ärztin Sophia findet in eine Arztpraxis ein Glas, in dem der Geist Mercurius sitzt. Als Sophia das Glas vor Schreck aus der Hand fällt, ist Mercurius frei. Er führt aber Böses im Schilde.(n)</desc>
-    <credits>
-      <director>Markus Dietrich</director>
-      <actor>Holger Daemgen</actor>
-      <actor>Ercan Durmaz</actor>
-      <actor>Sofie Eifertinger</actor>
-      <actor>Pablo Grant</actor>
-      <actor>Matthias Redlhammer</actor>
-      <actor>Neshe Demir</actor>
-      <actor>Bürger Lars Dietrich</actor>
-      <actor>Oliver Petszokat</actor>
-      <actor>Samanta Lillia</actor>
-      <writer>Anette Schönberger</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/091e25f6ff2a496b8ba7c3ae6dde8bba_thumb.jpg" />
-  </programme>
-  <programme start="20260524092500 +0200" stop="20260524095500 +0200" channel="Das Erste HD">
-    <title lang="hr">Die Sendung Mit Der Maus</title>
-    <desc lang="hr">Lach- und Sachgeschichten, heute mit einem Flieger, der geschoben wird, Kalle, der vom Fliegen träumt, Johannes, der tatsächlich fliegt, Shaun als Superheld – und natürlich mit der Maus, dem...(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0965eb925ec84732b054c905e5a764f0_thumb.jpg" />
-  </programme>
-  <programme start="20260524095500 +0200" stop="20260524100000 +0200" channel="Das Erste HD">
+  <programme start="20260608044300 +0200" stop="20260608044500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260524100000 +0200" stop="20260524110000 +0200" channel="Das Erste HD">
-    <title lang="hr">Evangelischer Gottesdienst Zum Pfingstsonntag</title>
-    <desc lang="hr">Unter dem Motto "Pfingsten und die Kraft zum Leben" steht der Gottesdienst, den Pfarrer Joachim Gerhardt leitet.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/88c34898497f4372a768f5a7cd924719_thumb.jpg" />
+  <programme start="20260608044500 +0200" stop="20260608053000 +0200" channel="Das Erste HD">
+    <title lang="hr">Weltspiegel</title>
+    <desc lang="hr">Wenige Tage vor Beginn der FIFA-Fußball-WM in Mexico, den USA und Kanada sendet der Weltspiegel aus Mexiko. Die politische Lage zwischen den Gastgebern USA und Mexiko ist angespannt.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aaa844f749924c818496a8d6916a014b_thumb.jpg" />
   </programme>
-  <programme start="20260524110000 +0200" stop="20260524123000 +0200" channel="Das Erste HD">
-    <title lang="hr">Benefizkonzert Des Bundespräsidenten</title>
-    <desc lang="hr">Am 24. Mai findet das Benefizkonzert des Bundespräsidenten auf dem Schlossplatz beim Neuen Schloss in Stuttgart statt.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/701eb7a06f47456a9e5cdd06b83f44b8_thumb.jpg" />
-  </programme>
-  <programme start="20260524123000 +0200" stop="20260524124500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260524124500 +0200" stop="20260524141500 +0200" channel="Das Erste HD">
-    <title lang="hr">Kurhotel Alpenglück</title>
-    <desc lang="hr">Richard erbt ein Hotel am Tegernsee, das er sofort verkaufen will. Seine naturverbundene Frau will dies verhindern.(n)</desc>
-    <credits>
-      <director>Peter Sämann</director>
-      <actor>Fritz Wepper</actor>
-      <actor>Michaela May</actor>
-      <actor>Franz Buchrieser</actor>
-      <actor>Susanna Kraus</actor>
-      <actor>Jenny-Marie Muck</actor>
-      <actor>Stefan Murr</actor>
-      <actor>Siegfried Rauch</actor>
-      <actor>Ann-Catrin Sudhoff</actor>
-      <actor>Nicole Beutler</actor>
-      <actor>Patrick Gräser</actor>
-      <writer>Stefan Kuhlmann</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/989b60bbea0540f9b7468933f740a522_thumb.jpg" />
-  </programme>
-  <programme start="20260524141500 +0200" stop="20260524144500 +0200" channel="Das Erste HD">
-    <title lang="hr">Holy Days</title>
-    <desc lang="hr">Guido Cantz und das Rätsel Pfingsten. Pfingsten – ein Grund zum Feiern? Moderator Guido Cantz geht dem nach. Als praktizierender Katholik ist Pfingsten ihm vertraut – doch was wird da genau gefeiert?(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/138098751c624fd69127717921d83c65_thumb.jpg" />
-  </programme>
-  <programme start="20260524144500 +0200" stop="20260524160000 +0200" channel="Das Erste HD">
-    <title lang="hr">Pferdesport: Chio Aachen: Springreiten: 2. Umlauf Und Stechen</title>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e2245677c86f45d2aeb746f77b532f15_thumb.jpg" />
-  </programme>
-  <programme start="20260524160000 +0200" stop="20260524173000 +0200" channel="Das Erste HD">
-    <title lang="hr">Daheim In Den Bergen</title>
-    <desc lang="hr">Wunsch und Wirklichkeit. Wunsch und Wirklichkeit liegen zuweilen weit auseinander: Ein neuer MS-Schub stellt die Pläne von Marie infrage, den Sommer zu dritt mit Georg und der kleinen Fritzi auf der geliebten Alpe zu...(n)</desc>
-    <credits>
-      <director>Markus Imboden</director>
-      <actor>Catherine Bode</actor>
-      <actor>Theresa Scholze</actor>
-      <actor>Thomas Unger</actor>
-      <actor>Matthi Faust</actor>
-      <actor>Christoph M. Ohrt</actor>
-      <actor>Judith Toth</actor>
-      <actor>Nadja Sabersky</actor>
-      <actor>Sogol Faghani</actor>
-      <actor>Karim Cherif</actor>
-      <actor>Tino Mewes</actor>
-      <writer>Martin Zimmermann</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f5639f30ab024b189fdeb843ccb51a29_thumb.jpg" />
-  </programme>
-  <programme start="20260524173000 +0200" stop="20260524174400 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260524174400 +0200" stop="20260524174500 +0200" channel="Das Erste HD">
-    <title lang="hr">Gewinnzahlen Deutsche Fernsehlotterie</title>
-    <desc lang="hr">Jeder, der ein Los der schon seit 1956 existierenden Deutschen Fernsehlotterie gekauft hat, kann mitfiebern, wenn in dieser Show die Endziffern für verschiedene Geldgewinne ermittelt werden.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/5b00b1bca4104ab19ab02f1b87f63a25_thumb.jpg" />
-  </programme>
-  <programme start="20260524174500 +0200" stop="20260524191500 +0200" channel="Das Erste HD">
-    <title lang="hr">Die Kanzlei</title>
-    <desc lang="hr">Reif für die Insel. Isa hilft auf einer Ostseeinsel ihrer Mutter und Harald Bruns, der dabei ist, sein Hotel zu verlieren.(n)</desc>
-    <credits>
-      <director>Bettina Schoeller Bouju</director>
-      <actor>Sabine Postel</actor>
-      <actor>Herbert Knaup</actor>
-      <actor>Sophie Dal</actor>
-      <actor>Katrin Pollitt</actor>
-      <actor>Marie Anne Fliegel</actor>
-      <actor>Julia Bremermann</actor>
-      <actor>Peter Kremer</actor>
-      <actor>Peter Franke</actor>
-      <actor>Gerhard Garbers</actor>
-      <actor>Frida-Lovisa Hamann</actor>
-      <writer>Thorsten Näter</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/9799cd30833f4e3db72ffbc81c162279_thumb.jpg" />
-  </programme>
-  <programme start="20260524191500 +0200" stop="20260524200000 +0200" channel="Das Erste HD">
-    <title lang="hr">Sportschau</title>
-    <desc lang="hr">Aktuelles aus der Welt des Sports, ob Fußball-Bundesliga, Handball, Boxen oder Motorsport. Hier erfahren Sie, wer wo wann was gewonnen hat.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1151882c473b4febb5aef8a17bfc5143_thumb.jpg" />
-  </programme>
-  <programme start="20260524200000 +0200" stop="20260524201500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260524201500 +0200" stop="20260524214500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tatort</title>
-    <desc lang="hr">Königinnen. Beim Gipfeltreffen bayerischer Produktköniginnen gibt es einen Mordanschlag auf den Präsidenten des Bavaria-Bunds.(n)</desc>
-    <credits>
-      <director>Rudi Gaul</director>
-      <actor>Miroslav Nemec</actor>
-      <actor>Udo Wachtveitl</actor>
-      <actor>Ferdinand Hofer</actor>
-      <actor>Veronica Ferres</actor>
-      <actor>Wolfgang Fierek</actor>
-      <actor>Max Rothbart</actor>
-      <actor>Robert Joseph Bartl</actor>
-      <actor>Daria Vivien Wolf</actor>
-      <actor>Bernadette Leopold</actor>
-      <actor>Lilly Wiedemann</actor>
-      <writer>Robert Löhr</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d63570dc8473450b89767c15e924ef1b_thumb.jpg" />
-  </programme>
-  <programme start="20260524214500 +0200" stop="20260524231500 +0200" channel="Das Erste HD">
-    <title lang="hr">Brokenwood – Mord In Neuseeland</title>
-    <desc lang="hr">Der Todesengel. Der Tod eines DJs auf einem Festival ruft Inspektor Shepherd auf den Plan. Nach einer bizarren ersten Theorie wird eine Überdosis als Todesursache festgestellt.(n)</desc>
-    <credits>
-      <director>Mike Smith</director>
-      <actor>Neill Rea</actor>
-      <actor>Fern Sutherland</actor>
-      <actor>Jarod Rawiri</actor>
-      <actor>Cristina Serban Ionda</actor>
-      <actor>Karl Willetts</actor>
-      <actor>Tracy Lee Gray</actor>
-      <actor>Peter Tait</actor>
-      <actor>Phil Peleton</actor>
-      <actor>Kimberley Crossman</actor>
-      <actor>Patrick Tafa</actor>
-      <writer>James Griffin</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b81f48ee81b64d47a6c96f755a63a100_thumb.jpg" />
-  </programme>
-  <programme start="20260524231500 +0200" stop="20260524233500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesthemen</title>
-    <desc lang="hr">Mit Wetter. Die Tagesthemen vermitteln ergänzende Informationen zu den tagesaktuellen Ereignissen und zeigen Zusammenhänge und Hintergründe.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1ad500ada5b34a23aa725b744049014e_thumb.jpg" />
-  </programme>
-  <programme start="20260524233500 +0200" stop="20260525013300 +0200" channel="Das Erste HD">
-    <title lang="hr">Der Fuchs</title>
-    <desc lang="hr">Ein Bauernsohn wird in den 1930er-Jahren zum Militärdienst eingezogen. Er findet einen verwaisten Fuchs und nimmt ihn auf.(n)</desc>
-    <credits>
-      <director>Adrian Goiginger</director>
-      <actor>Simon Morzé</actor>
-      <actor>Karl Markovics</actor>
-      <actor>Karola Maria Niederhuber</actor>
-      <actor>Maximilian Reinwald</actor>
-      <actor>Marko Kerezovic</actor>
-      <actor>Adriane Gradziel</actor>
-      <actor>Cornelius Obonya</actor>
-      <actor>Joseph Stoisits</actor>
-      <actor>Joshua Bader</actor>
-      <actor>Alexander Beyer</actor>
-      <writer>Adrian Goiginger</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/769c6713b8224940b97869a557ac0174_thumb.jpg" />
-  </programme>
-  <programme start="20260525013300 +0200" stop="20260525013500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260525013500 +0200" stop="20260525030500 +0200" channel="Das Erste HD">
-    <title lang="hr">Brokenwood – Mord In Neuseeland</title>
-    <desc lang="hr">Der Todesengel. Der Tod eines DJs auf einem Festival ruft Inspektor Shepherd auf den Plan. Nach einer bizarren ersten Theorie wird eine Überdosis als Todesursache festgestellt.(n)</desc>
-    <credits>
-      <director>Mike Smith</director>
-      <actor>Neill Rea</actor>
-      <actor>Fern Sutherland</actor>
-      <actor>Jarod Rawiri</actor>
-      <actor>Cristina Serban Ionda</actor>
-      <actor>Karl Willetts</actor>
-      <actor>Tracy Lee Gray</actor>
-      <actor>Peter Tait</actor>
-      <actor>Phil Peleton</actor>
-      <actor>Kimberley Crossman</actor>
-      <actor>Patrick Tafa</actor>
-      <writer>James Griffin</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b81f48ee81b64d47a6c96f755a63a100_thumb.jpg" />
-  </programme>
-  <programme start="20260525030500 +0200" stop="20260525043500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tatort</title>
-    <desc lang="hr">Königinnen. Beim Gipfeltreffen bayerischer Produktköniginnen gibt es einen Mordanschlag auf den Präsidenten des Bavaria-Bunds.(n)</desc>
-    <credits>
-      <director>Rudi Gaul</director>
-      <actor>Miroslav Nemec</actor>
-      <actor>Udo Wachtveitl</actor>
-      <actor>Ferdinand Hofer</actor>
-      <actor>Veronica Ferres</actor>
-      <actor>Wolfgang Fierek</actor>
-      <actor>Max Rothbart</actor>
-      <actor>Robert Joseph Bartl</actor>
-      <actor>Daria Vivien Wolf</actor>
-      <actor>Bernadette Leopold</actor>
-      <actor>Lilly Wiedemann</actor>
-      <writer>Robert Löhr</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d63570dc8473450b89767c15e924ef1b_thumb.jpg" />
-  </programme>
-  <programme start="20260525043500 +0200" stop="20260525045800 +0200" channel="Das Erste HD">
-    <title lang="hr">Deutschlandbilder</title>
-    <desc lang="hr">Deutsche Landschaften, Städte, Inseln: Begleiten Sie uns zu den schönsten Plätzen Deutschlands.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/286a4737b63245ad8335dba11f4b55e4_thumb.jpg" />
-  </programme>
-  <programme start="20260525045800 +0200" stop="20260525050000 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260525050000 +0200" stop="20260525053000 +0200" channel="Das Erste HD">
-    <title lang="hr">Holy Days</title>
-    <desc lang="hr">Guido Cantz und das Rätsel Pfingsten. Pfingsten – ein Grund zum Feiern? Moderator Guido Cantz geht dem nach. Als praktizierender Katholik ist Pfingsten ihm vertraut – doch was wird da genau gefeiert?(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/138098751c624fd69127717921d83c65_thumb.jpg" />
-  </programme>
-  <programme start="20260525053000 +0200" stop="20260525054500 +0200" channel="Das Erste HD">
-    <title lang="hr">Ninas Traum Von Der Band</title>
-    <desc lang="hr">Nina ist der große Stolz ihrer Eltern. Im Jiu-Jitsu gewinnt sie Medaillen, und auch im Ballett kann sie glänzen. Nun singt sie auch noch die erste Stimme im Schulchor.(n)</desc>
-    <credits>
-      <director>Branko Vučić</director>
-      <actor>Dunja</actor>
-      <actor>Nika</actor>
-      <actor>Mihajlo</actor>
-      <actor>Leon</actor>
-      <actor>Vanja</actor>
-      <actor>Ljubica</actor>
-      <actor>Mirka Vasiljević</actor>
-      <actor>Vladimir Mihajlovic</actor>
-      <actor>Draga Živanovic</actor>
-      <actor>Tanja Arsic</actor>
-      <writer>Branko Vučić</writer>
-      <writer>Tanja Ivanović</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0878e7759cc44d6a82bd27d1649bed1b_thumb.jpg" />
-  </programme>
-  <programme start="20260525054500 +0200" stop="20260525061000 +0200" channel="Das Erste HD">
-    <title lang="hr">Schau In Meine Welt</title>
-    <desc lang="hr">Rugby und Rezepte – Harry lebt seinen Traum. Rugby hat in Harrys Familie eine lange Tradition. Schon sein Opa und sein Vater haben in England gespielt und nun möchte Harry ein international erfolgreicher Rugbyspieler werden.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a5e20a0cb5f24cbdbe861cc6fdb66ad1_thumb.jpg" />
-  </programme>
-  <programme start="20260525061000 +0200" stop="20260525072500 +0200" channel="Das Erste HD">
-    <title lang="hr">Checker Tobi</title>
-    <desc lang="hr">Tobi entdeckt Italien: In seinem Abenteuerfilm reist der Checker von Südtirol bis Rom und trifft auf ungewöhnliche Menschen, die so spannend sind wie das Land selbst.(n)</desc>
-    <credits>
-      <director>Martin Tischner</director>
-      <director>Johannes Honsell</director>
-      <director>Imke Hansen</director>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/398a9fe83a2b4acc85a1428f73f13853_thumb.jpg" />
-  </programme>
-  <programme start="20260525072500 +0200" stop="20260525082500 +0200" channel="Das Erste HD">
-    <title lang="hr">Rotkäppchen</title>
-    <desc lang="hr">Weil Rotkäppchens Mutter viel arbeiten muss, macht sich Rotkäppchen alleine auf den Weg, um der kranken Grossmutter zu helfen. Doch der Weg führt durch den dunklen Wald, wo der böse Wolf wohnt.(n)</desc>
-    <credits>
-      <director>Sibylle Tafel</director>
-      <actor>Amona Assmann</actor>
-      <actor>Zora Thiessen</actor>
-      <actor>Marie Gruber</actor>
-      <actor>Edgar Selge</actor>
-      <actor>Felix Klare</actor>
-      <actor>Chiron Elias Krase</actor>
-      <actor>Nina Vorbrodt</actor>
-      <actor>Claudia Matschulla</actor>
-      <actor>Arcadia Wilms</actor>
-      <actor>Sam Gerst</actor>
-      <writer>Anja Kömmerling</writer>
-      <writer>Thomas Brinx</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4b83d4eff65f4d039edf42a9c75ca6ad_thumb.jpg" />
-  </programme>
-  <programme start="20260525082500 +0200" stop="20260525092500 +0200" channel="Das Erste HD">
-    <title lang="hr">Die Salzprinzessin</title>
-    <desc lang="hr">Es ist Zeit für König Christoph, das Zepter abzugeben. Eine seiner drei geliebten Töchter soll die Thronfolge antreten und eine ebenso barmherzige Regentin werden wie die verstorbene Königin.(n)</desc>
-    <credits>
-      <director>Zoltan Spirandelli</director>
-      <actor>Leonie Brill</actor>
-      <actor>Leonard Lansink</actor>
-      <actor>Elvis Clausen</actor>
-      <actor>Sophie von Kessel</actor>
-      <actor>Lennart Mathiesen</actor>
-      <actor>Alexandra Martini</actor>
-      <actor>Svenja Görger</actor>
-      <actor>Marylu-Saskia Poolman</actor>
-      <actor>Simon Pawlowsky</actor>
-      <actor>Ben Artmann</actor>
-      <writer>Anja Jabs</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/45aa514e47634f8c8602b05f535006ab_thumb.jpg" />
-  </programme>
-  <programme start="20260525092500 +0200" stop="20260525095500 +0200" channel="Das Erste HD">
-    <title lang="hr">Die Sendung Mit Der Maus</title>
-    <desc lang="hr">Wie kommen die Löcher in den Käse? Wer malt die Streifen in die Zahnpasta? Wenn Kinder etwas wissen wollen und Eltern nicht weiterwissen, helfen die Sachgeschichten mit der Maus.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0965eb925ec84732b054c905e5a764f0_thumb.jpg" />
-  </programme>
-  <programme start="20260525095500 +0200" stop="20260525100000 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260525100000 +0200" stop="20260525110000 +0200" channel="Das Erste HD">
-    <title lang="hr">Katholischer Gottesdienst Zum Pfingstmontag</title>
-    <desc lang="hr">"Was uns eint, ist größer als alles, was trennt" ist das Motto des katholischen Gottesdienstes, den die ARD am Pfingstmontag aus dem Museum Kloster und Kaiserpfalz im sachsen-anhaltischen Memleben...(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/bf45c412fdb84b629f2f8198819ea30a_thumb.jpg" />
-  </programme>
-  <programme start="20260525110000 +0200" stop="20260525111500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260525111500 +0200" stop="20260525124500 +0200" channel="Das Erste HD">
-    <title lang="hr">Freie Fahrt Ins Glück</title>
-    <desc lang="hr">Familienkomödie mit Gila von Weitershausen und Michael Mendl, die alle Hände voll zu tun haben, bis sie sich als Paar am Ende wieder zusammenraufen.(n)</desc>
-    <credits>
-      <director>Ariane Zeller</director>
-      <actor>Gila von Weitershausen</actor>
-      <actor>Michael Mendl</actor>
-      <actor>Suzan Anbeh</actor>
-      <actor>Kai Scheve</actor>
-      <actor>Marlen Diekhoff</actor>
-      <actor>Krystian Martinek</actor>
-      <actor>Mathilde Bundschuh</actor>
-      <actor>Timon Straka</actor>
-      <actor>Paul Faßnacht</actor>
-      <actor>Catrin Striebeck</actor>
-      <writer>Jessica Schellack</writer>
-      <writer>Kerstin Oesterlin</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/365d8268a10d4725975f8a63bbbc31f3_thumb.jpg" />
-  </programme>
-  <programme start="20260525124500 +0200" stop="20260525141000 +0200" channel="Das Erste HD">
-    <title lang="hr">Insel Des Lichts</title>
-    <desc lang="hr">Nora Bernd ist als Ratgeberin ein großer Fernsehstar. Niemand ahnt, dass ihr eigenes Leben in Scherben liegt.(n)</desc>
-    <credits>
-      <director>Wolf Gremm</director>
-      <actor>Christine Neubauer</actor>
-      <actor>Julia Hartmann</actor>
-      <actor>Martin Glade</actor>
-      <actor>Ole Tillmann</actor>
-      <actor>Ruth Maria Kubitschek</actor>
-      <actor>Jan Fedder</actor>
-      <actor>Eric Langner</actor>
-      <actor>Jaecki Schwarz</actor>
-      <actor>Helmut Zierl</actor>
-      <actor>Eckart von Hirschhausen</actor>
-      <writer>Wolf Gremm</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/632951bdb54e407e9a08b3236006f24a_thumb.jpg" />
-  </programme>
-  <programme start="20260525141000 +0200" stop="20260525141500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260525141500 +0200" stop="20260525154500 +0200" channel="Das Erste HD">
-    <title lang="hr">Rat Mal, Wer Zur Hochzeit Kommt</title>
-    <desc lang="hr">Die Hochzeitsplanung von Lisa und Hrvoje gestaltet sich auf Grund der Unterschiede zwischen ihren Eltern schwierig.(n)</desc>
-    <credits>
-      <director>Michael Rowitz</director>
-      <actor>Suzanne von Borsody</actor>
-      <actor>Henry Hübchen</actor>
-      <actor>Jasmin Schwiers</actor>
-      <actor>Ludwig Trepte</actor>
-      <actor>Andrea Eckert</actor>
-      <actor>Karl Fischer</actor>
-      <actor>Karim Cherif</actor>
-      <actor>Gloria Nefzger</actor>
-      <actor>Mareike Lindenmeyer</actor>
-      <actor>Peter Bosch</actor>
-      <writer>Mathias Lösel</writer>
-      <writer>Michael Rowitz</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/731544f22c7541e389d9eb6697a04bda_thumb.jpg" />
-  </programme>
-  <programme start="20260525154500 +0200" stop="20260525160000 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260525160000 +0200" stop="20260525173000 +0200" channel="Das Erste HD">
-    <title lang="hr">Daheim In Den Bergen</title>
-    <desc lang="hr">Schulter an Schulter. Als die benachbarten Wenningers ihren Hof zu verlieren drohen, möchte Georg Leitner mit allen Mitteln helfen. Auch sein Bruder Florian braucht Geld, ausgerechnet jetzt.(n)</desc>
-    <credits>
-      <director>Markus Imboden</director>
-      <actor>Catherine Bode</actor>
-      <actor>Theresa Scholze</actor>
-      <actor>Thomas Unger</actor>
-      <actor>Matthi Faust</actor>
-      <actor>Nadja Sabersky</actor>
-      <actor>Karim Cherif</actor>
-      <actor>Sogol Faghani</actor>
-      <actor>Petra Zieser</actor>
-      <actor>Peter Kremer</actor>
-      <actor>Ole Fischer</actor>
-      <writer>Martin Zimmermann</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0d704df27a2c4c0883fe1f40f5c8255a_thumb.jpg" />
-  </programme>
-  <programme start="20260525173000 +0200" stop="20260525174500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260525174500 +0200" stop="20260525191500 +0200" channel="Das Erste HD">
-    <title lang="hr">Das Kindermädchen: Mission Italien</title>
-    <desc lang="hr">Henni fährt zu einer Familie nach Apulien, die die angeblich nur ein wenig Entlastung für die Zeit der Olivenernte braucht. Dort angekommen stellt sie fest, dass eine schwere Aufgabe auf sie wartet.(n)</desc>
-    <credits>
-      <director>Sascha Bigler</director>
-      <actor>Saskia Vester</actor>
-      <actor>Clelia Sarto</actor>
-      <actor>Janek Rieke</actor>
-      <actor>Laila Padotzke</actor>
-      <actor>Marlon Heidel</actor>
-      <actor>Liza Tzschirner</actor>
-      <actor>Gerhard Wittmann</actor>
-      <actor>Nick Julius Schuck</actor>
-      <actor>Brigitte Zeh</actor>
-      <writer>Simon X. Rost</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/190df78d49ff4946a07fbb312d34e5f9_thumb.jpg" />
-  </programme>
-  <programme start="20260525191500 +0200" stop="20260525200000 +0200" channel="Das Erste HD">
-    <title lang="hr">Hirschhausen Will Zum Papst: Wer Bewahrt Die Schöpfung</title>
-    <desc lang="hr">Hirschhausen will zum Papst: Wer bewahrt die Schöpfung?. Kommt ein protestantischer Arzt zum Papst – das klingt wie der Anfang eines Witzes.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83cb85f3d97e42ffad75054bef05db2c_thumb.jpg" />
-  </programme>
-  <programme start="20260525200000 +0200" stop="20260525201500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260525201500 +0200" stop="20260525214500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tatort</title>
-    <desc lang="hr">Vergebung. Die Kommissare Lannert und Bootz ermitteln im Fall einer angeschwemmten Leiche. Gerichtsmediziner Vogt hält Informationen zurück und wird selbst zum Ermittler, nachdem er den Toten als Freund erkennt.(n)</desc>
-    <credits>
-      <director>Rudi Gaul</director>
-      <actor>Richy Müller</actor>
-      <actor>Felix Klare</actor>
-      <actor>Jürgen Hartmann</actor>
-      <actor>Paul Faßnacht</actor>
-      <actor>Ulrike C. Tscharre</actor>
-      <actor>Mina Özlem Sağdıç</actor>
-      <actor>Volker Muthmann</actor>
-      <actor>Tim Bülow</actor>
-      <actor>Manolo Bertling</actor>
-      <actor>Xari Wimbauer</actor>
-      <writer>Katharina Adler</writer>
-      <writer>Rudi Gaul</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a5f7699b17274806b8bcf7299b47dc31_thumb.jpg" />
-  </programme>
-  <programme start="20260525214500 +0200" stop="20260525231500 +0200" channel="Das Erste HD">
-    <title lang="hr">Brokenwood – Mord In Neuseeland</title>
-    <desc lang="hr">Vom Funken zur Flamme. In einer idyllischen Strandsiedlung wird eine Frau im Haus ihrer Nachbarin tot aufgefunden.(n)</desc>
-    <credits>
-      <director>Jacqueline Nairn</director>
-      <actor>Neill Rea</actor>
-      <actor>Fern Sutherland</actor>
-      <actor>Jarod Rawiri</actor>
-      <actor>Cristina Serban Ionda</actor>
-      <actor>Laura Hill</actor>
-      <actor>Tania Nolan</actor>
-      <actor>Danielle Mason</actor>
-      <actor>John Katipa</actor>
-      <actor>Akinehi Munroe</actor>
-      <actor>Bronwyn Ensor</actor>
-      <writer>Roy Ward</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eca871ef2bf546fcbaba921da6e1ef18_thumb.jpg" />
-  </programme>
-  <programme start="20260525231500 +0200" stop="20260525233500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesthemen</title>
-    <desc lang="hr">Mit Wetter. Die Tagesthemen vermitteln ergänzende Informationen zu den tagesaktuellen Ereignissen und zeigen Zusammenhänge und Hintergründe.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1ad500ada5b34a23aa725b744049014e_thumb.jpg" />
-  </programme>
-  <programme start="20260525233500 +0200" stop="20260526002500 +0200" channel="Das Erste HD">
-    <title lang="hr">Fatma Saïd &amp; Friends: Das Pyramiden Konzert</title>
-    <desc lang="hr">Fatma Saïd &amp; Friends: Das Pyramiden-Konzert. Im Herbst letzten Jahres erfüllte sich die international renommierte Sopranistin und "Opus Klassik"-Preisträgerin Fatma Said aus Kairo einen musikalischen Traum: ein Open-Air-Konzert vor den...(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/16950d3fac2047e59f1e06f5162b8673_thumb.jpg" />
-  </programme>
-  <programme start="20260526002500 +0200" stop="20260526015800 +0200" channel="Das Erste HD">
-    <title lang="hr">Paris Kann Warten</title>
-    <desc lang="hr">Eleanor Coppola, Ehefrau des amerikanischen Star-Regisseurs Francis Ford Coppola, inszenierte einen filmischen Gaumenschmaus voller locker-luftigem Charme.(n)</desc>
-    <credits>
-      <director>Eleanor Coppola</director>
-      <actor>Diane Lane</actor>
-      <actor>Arnaud Viard</actor>
-      <actor>Alec Baldwin</actor>
-      <actor>Elise Tielrooy</actor>
-      <actor>Elodie Navarre</actor>
-      <actor>Cédric Monnet</actor>
-      <actor>Serge Onteniente</actor>
-      <actor>Aurore Clément</actor>
-      <actor>Davia Nelson</actor>
-      <actor>Pierre Cuq</actor>
-      <writer>Eleanor Coppola</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/918d02ce53c74dec9c6bcc0c1de9f8c9_thumb.jpg" />
-  </programme>
-  <programme start="20260526015800 +0200" stop="20260526020000 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260526020000 +0200" stop="20260526033000 +0200" channel="Das Erste HD">
-    <title lang="hr">Tatort</title>
-    <desc lang="hr">Vergebung. Die Kommissare Lannert und Bootz ermitteln im Fall einer angeschwemmten Leiche. Gerichtsmediziner Vogt hält Informationen zurück und wird selbst zum Ermittler, nachdem er den Toten als Freund erkennt.(n)</desc>
-    <credits>
-      <director>Rudi Gaul</director>
-      <actor>Richy Müller</actor>
-      <actor>Felix Klare</actor>
-      <actor>Jürgen Hartmann</actor>
-      <actor>Paul Faßnacht</actor>
-      <actor>Ulrike C. Tscharre</actor>
-      <actor>Mina Özlem Sağdıç</actor>
-      <actor>Volker Muthmann</actor>
-      <actor>Tim Bülow</actor>
-      <actor>Manolo Bertling</actor>
-      <actor>Xari Wimbauer</actor>
-      <writer>Katharina Adler</writer>
-      <writer>Rudi Gaul</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a5f7699b17274806b8bcf7299b47dc31_thumb.jpg" />
-  </programme>
-  <programme start="20260526033000 +0200" stop="20260526042000 +0200" channel="Das Erste HD">
-    <title lang="hr">Fatma Saïd &amp; Friends: Das Pyramiden Konzert</title>
-    <desc lang="hr">Fatma Saïd &amp; Friends: Das Pyramiden-Konzert. Im Herbst letzten Jahres erfüllte sich die international renommierte Sopranistin und "Opus Klassik"-Preisträgerin Fatma Said aus Kairo einen musikalischen Traum: ein Open-Air-Konzert vor den...(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/16950d3fac2047e59f1e06f5162b8673_thumb.jpg" />
-  </programme>
-  <programme start="20260526042000 +0200" stop="20260526044300 +0200" channel="Das Erste HD">
-    <title lang="hr">Deutschlandbilder</title>
-    <desc lang="hr">Deutsche Landschaften, Städte, Inseln: Begleiten Sie uns zu den schönsten Plätzen Deutschlands.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/286a4737b63245ad8335dba11f4b55e4_thumb.jpg" />
-  </programme>
-  <programme start="20260526044300 +0200" stop="20260526044500 +0200" channel="Das Erste HD">
-    <title lang="hr">Tagesschau</title>
-    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
-  </programme>
-  <programme start="20260526044500 +0200" stop="20260526053000 +0200" channel="Das Erste HD">
-    <title lang="hr">Hirschhausen Will Zum Papst: Wer Bewahrt Die Schöpfung</title>
-    <desc lang="hr">Hirschhausen will zum Papst: Wer bewahrt die Schöpfung?. Kommt ein protestantischer Arzt zum Papst – das klingt wie der Anfang eines Witzes.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/83cb85f3d97e42ffad75054bef05db2c_thumb.jpg" />
-  </programme>
-  <programme start="20260526053000 +0200" stop="20260526090000 +0200" channel="Das Erste HD">
+  <programme start="20260608053000 +0200" stop="20260608090000 +0200" channel="Das Erste HD">
     <title lang="hr">Zdf Morgenmagazin</title>
     <desc lang="hr">ZDF-Morgenmagazin. Das "ZDF-Morgenmagazin" – der Blick in den Tag mit aktuellen, hintergründigen Berichten und Gesprächen aus Politik, Wirtschaft, Sport und Kultur. Live aus dem ZDF-Hauptstadtstudio.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/dfb6ae898a6d4b438f3ef3ea98a2a9fd_thumb.jpg" />
   </programme>
-  <programme start="20260526090000 +0200" stop="20260526090500 +0200" channel="Das Erste HD">
+  <programme start="20260608090000 +0200" stop="20260608090500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260526090500 +0200" stop="20260526095500 +0200" channel="Das Erste HD">
+  <programme start="20260608090500 +0200" stop="20260608095500 +0200" channel="Das Erste HD">
     <title lang="hr">Hubert Und Staller</title>
-    <desc lang="hr">Walzverhalten. Als Hubert und Staller gerufen werden, um einen Ehestreit zu schlichten, finden sie im Müllcontainer einen Toten: Es ist der Wandergeselle Kurt Keppler, der das Dach des Hauses reparieren sollte.(n)</desc>
+    <desc lang="hr">Neues Glück im alten Bett. Ins Wolfratshausener Heimatmuseum wurde eingebrochen. Als Hubert und Staller am nächsten Morgen den Tatort untersuchen, finden sie die Leiche eines Wachmanns in einem ausgestellten Bauernschrank.(n)</desc>
     <credits>
       <director>Erik Haffner</director>
       <actor>Christian Tramitz</actor>
       <actor>Helmfried von Lüttichau</actor>
       <actor>Michael Brandner</actor>
-      <actor>Karin Thaler</actor>
       <actor>Annett Fleischer</actor>
       <actor>Paul Sedlmeir</actor>
       <actor>Hannes Ringlstetter</actor>
+      <actor>Karin Thaler</actor>
       <actor>Carin C. Tietze</actor>
-      <actor>Andreas Giebel</actor>
-      <actor>Stephanie Müller-Hagen</actor>
-      <writer>Michael Pohl</writer>
-      <writer>Paul Milbers</writer>
+      <actor>Julia Rosa Peer</actor>
+      <actor>Andreas Wimberger</actor>
+      <writer>Reinhard Krökel</writer>
+      <writer>Moritz Freitag</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8fcb0b2262a043c182a28de2176a0c99_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d7c334690cf741c2a4e90c609f7d39c7_thumb.jpg" />
   </programme>
-  <programme start="20260526095500 +0200" stop="20260526104000 +0200" channel="Das Erste HD">
+  <programme start="20260608095500 +0200" stop="20260608104000 +0200" channel="Das Erste HD">
     <title lang="hr">Großstadtrevier</title>
-    <desc lang="hr">Die zwei Musketiere. Bei einem Inhaftierten besteht der Verdacht einer Erkrankung am hochinfektiösen Parimafieber.(n)</desc>
+    <desc lang="hr">Mitschuld. Der "Tankstellen-Rambo", wie die Beamten den Mann nennen, raubt in regelmäßigen Abständen mit gestohlenen Autos Tankstellen aus.(n)</desc>
     <credits>
-      <director>Torsten Wacker</director>
+      <director>Claude Giffel</director>
       <actor>Saskia Fischer</actor>
       <actor>Maria Ketikidou</actor>
       <actor>Wanda Perdelwitz</actor>
@@ -769,44 +143,43 @@
       <actor>Sven Fricke</actor>
       <actor>Enrique Fiß</actor>
       <actor>Torsten Lennie Münchow</actor>
-      <actor>Ole Fischer</actor>
-      <actor>Marian Meder</actor>
-      <actor>Stephan Tölle</actor>
-      <writer>Beatrice Blank</writer>
-      <writer>Sören Hüper</writer>
+      <actor>Peter Sikorski</actor>
+      <actor>Jari Schaller</actor>
+      <actor>Pascal Pawlowski</actor>
+      <writer>Andrej Sorin</writer>
     </credits>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a18eac88e79d4b63b3dd2e29c3c38e81_thumb.jpg" />
   </programme>
-  <programme start="20260526104000 +0200" stop="20260526104500 +0200" channel="Das Erste HD">
+  <programme start="20260608104000 +0200" stop="20260608104500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260526104500 +0200" stop="20260526111500 +0200" channel="Das Erste HD">
+  <programme start="20260608104500 +0200" stop="20260608111500 +0200" channel="Das Erste HD">
     <title lang="hr">Meister Des Alltags</title>
-    <desc lang="hr">/ SWR/SR Fernsehen Moderator Florian Weber stellt im SWR Wissensquiz die Alltagstauglichkeit seiner prominenten Kandidat:innen auf die Probe.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/af91eb86cb2a481f904c86e0a7d4f584_thumb.jpg" />
+    <desc lang="hr">Heute gehen die Spenden an das Kinderhospiz in Stuttgart sowie an das ambulante Kinderhospiz "Nestwärme" in Trier. Letzteres hat 1.800 ehrenamtlichen Mitmacher, beziehungsweise "ZeitSchenker".(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/53fa542626af4d70bd3f4bea1449fb00_thumb.jpg" />
   </programme>
-  <programme start="20260526111500 +0200" stop="20260526120000 +0200" channel="Das Erste HD">
+  <programme start="20260608111500 +0200" stop="20260608120000 +0200" channel="Das Erste HD">
     <title lang="hr">Gefragt – Gejagt</title>
     <desc lang="hr">In dieser Quizshow tritt ein Team von vier Kandidatinnen und Kandidaten gegen ein Superhirn an. Das ist keine leichte Aufgabe für sie, denn die Jägerinnen und die Jäger sind ausgewiesene Quizprofis.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/889a832d2c804063b55f0690dd1ec639_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8ffc077a33f6485d87ad9d913fc26ab0_thumb.jpg" />
   </programme>
-  <programme start="20260526120000 +0200" stop="20260526140000 +0200" channel="Das Erste HD">
+  <programme start="20260608120000 +0200" stop="20260608140000 +0200" channel="Das Erste HD">
     <title lang="hr">Ard Mittagsmagazin</title>
-    <desc lang="hr">Mit Tagesschau. Nachrichten aus aller Welt, Neues aus Politik, Wirtschaft, Börse, Sport, Kultur und Service.(n)</desc>
+    <desc lang="hr">Mit Tagesschau. * Bronze-Abzeichen für Freibadbesuch? Schwimmmeister fordern bundesweite Einführung. * Rente statt Pension?(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/11296b5447d846afbdfed21398558c77_thumb.jpg" />
   </programme>
-  <programme start="20260526140000 +0200" stop="20260526141000 +0200" channel="Das Erste HD">
+  <programme start="20260608140000 +0200" stop="20260608141000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260526141000 +0200" stop="20260526150000 +0200" channel="Das Erste HD">
+  <programme start="20260608141000 +0200" stop="20260608150000 +0200" channel="Das Erste HD">
     <title lang="hr">Rote Rosen</title>
-    <desc lang="hr">Nach einem verheerenden Server-Ausfall in der EmKa kämpft Lou mit Richards Hilfe gegen das Chaos an.(n)</desc>
+    <desc lang="hr">Ellie muss für Carla ein Catering ausliefern und wird dabei von Toni unterstützt. Die Stimmung ist super und Toni merkt nicht, wie sich ihre Gefühle zu Ellie immer stärker aufladen.(n)</desc>
     <credits>
-      <director>Martina Allgeyer</director>
+      <director>Dirk Regel</director>
       <actor>Eva-Maria Grein von Friedl</actor>
       <actor>Juana Nagel</actor>
       <actor>Daniel Fritz</actor>
@@ -817,63 +190,336 @@
       <actor>Martina Eitner-Acheampong</actor>
       <actor>Hermann Toelcke</actor>
       <actor>Maria Fuchs</actor>
-      <writer>Philipp Drehmann</writer>
+      <writer>Eva Maria Sommersberg</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b339691cfffc4197b2b4d5e790660299_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/828ce230a5264d6aa50d6422d2352c97_thumb.jpg" />
   </programme>
-  <programme start="20260526150000 +0200" stop="20260526151000 +0200" channel="Das Erste HD">
+  <programme start="20260608150000 +0200" stop="20260608151000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260526151000 +0200" stop="20260526160000 +0200" channel="Das Erste HD">
+  <programme start="20260608151000 +0200" stop="20260608160000 +0200" channel="Das Erste HD">
     <title lang="hr">Sturm Der Liebe</title>
-    <desc lang="hr">Massimo verliebt sich in Olivia. Kilian wendet sich wieder mehr Larissa zu. Katja lässt sich notgedrungen auf eine vorläufige Fernbeziehung ein. Erik leidet unter Yvonnes Sexverbot.(n)</desc>
+    <desc lang="hr">Fanny und Yannik rätseln, was Kilians Verhaltensänderung verursacht hat. Adam muss sich damit abfinden, dass er nun mutterseelenallein ist.(n)</desc>
     <credits>
-      <director>Stefan Jonas</director>
-      <director>Carsten Meyer-Grohbrügge</director>
+      <director>Udo Müller</director>
+      <director>Alexander Wiedl</director>
       <actor>Philip Birnstiel</actor>
       <actor>Sepp Schauer</actor>
+      <actor>Dieter Bach</actor>
+      <actor>Sven Waasner</actor>
+      <actor>Johanna Graen</actor>
+      <actor>Thimo Meitner</actor>
+      <actor>Isabell Stern</actor>
+      <actor>Anthony Mrosek</actor>
+      <actor>Yeliz Simsek</actor>
+      <actor>Anna Karolin Berger</actor>
+      <writer>Carmen Nascetti</writer>
+      <writer>Barbara Siller</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3442328e9b204278989a9496b5ea2b08_thumb.jpg" />
+  </programme>
+  <programme start="20260608160000 +0200" stop="20260608161000 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260608161000 +0200" stop="20260608170000 +0200" channel="Das Erste HD">
+    <title lang="hr">Elefant, Tiger &amp; Co</title>
+    <desc lang="hr">Die richtige Mischung. Die richtige Mischung Geschichten aus dem Leipziger Zoo.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/5f6df2e849b64c29af46b02a09d64c8e_thumb.jpg" />
+  </programme>
+  <programme start="20260608170000 +0200" stop="20260608171500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260608171500 +0200" stop="20260608180000 +0200" channel="Das Erste HD">
+    <title lang="hr">Brisant</title>
+    <desc lang="hr">Das Infotainment-Magazin der ARD im Ersten wird in zahlreichen Dritten Programmen wiederholt. Auch im SR Fernsehen von Montag bis Donnerstag, jeweils ab 18.15 Uhr.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/20607aed932f40fc823bad9b1639de33_thumb.jpg" />
+  </programme>
+  <programme start="20260608180000 +0200" stop="20260608185000 +0200" channel="Das Erste HD">
+    <title lang="hr">Gefragt – Gejagt</title>
+    <desc lang="hr">Kandidatinnen und Kandidaten treten gegen ein Superhirn – eine "Jägerin" oder einen "Jäger" – an. Keine leichte Aufgabe, denn diese sind ausgewiesene Quiz-Champions!(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c522291b51794f45a6228e1b9095ab09_thumb.jpg" />
+  </programme>
+  <programme start="20260608185000 +0200" stop="20260608194500 +0200" channel="Das Erste HD">
+    <title lang="hr">Großstadtrevier</title>
+    <desc lang="hr">Millionärin wider Willen. Hausbesetzerin Nuri hat sechs Millionen im Lotto gewonnen, möchte den Gewinn aber geheim halten.(n)</desc>
+    <credits>
+      <director>Oliver Dommenget</director>
+      <actor>Saskia Fischer</actor>
+      <actor>Maria Ketikidou</actor>
+      <actor>Enrique Fiß</actor>
+      <actor>Patrick Abozen</actor>
+      <actor>Sinha Melina Gierke</actor>
+      <actor>Sven Fricke</actor>
+      <actor>Torsten Lennie Münchow</actor>
+      <actor>Benjamin-Lew Klon</actor>
+      <actor>Sascha Reimann</actor>
+      <actor>Meryem Öz</actor>
+      <writer>René Förder</writer>
+      <writer>Stephan Pächer</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/81f511105dbd48d297af181f1c8f64cb_thumb.jpg" />
+  </programme>
+  <programme start="20260608194500 +0200" stop="20260608195000 +0200" channel="Das Erste HD">
+    <title lang="hr">Sportschau Vor Acht</title>
+    <desc lang="hr">Neues von der Nationalmannschaft. Ab dem 26. Mai und damit rund zwei Wochen vor Beginn der Fußball-Weltmeisterschaft in Kanada, Mexiko und den USA berichtet "Sportschau vor acht" in 14 Folgen von der deutschen...(n)</desc>
+  </programme>
+  <programme start="20260608195000 +0200" stop="20260608195500 +0200" channel="Das Erste HD">
+    <title lang="hr">Wetter Vor Acht</title>
+    <desc lang="hr">Sonne, Regen, Schnee oder bewölkt? Wie wird das Wetter? Diese Sendung präsentiert auf einer Wetterkarte das aktuelle Wetter und die Aussichten auf die kommende Nacht und die folgenden Tage.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e7bf1c873a2b47d799f0556bad3a04c6_thumb.jpg" />
+  </programme>
+  <programme start="20260608195500 +0200" stop="20260608200000 +0200" channel="Das Erste HD">
+    <title lang="hr">Wirtschaft Vor Acht</title>
+    <desc lang="hr">Die Sendung präsentiert Ereignisse aus der Wirtschaftswelt und Aktuelles von der Frankfurter Börse. Ein Moderatorenteam erklärt Nachrichten der Wirtschaft, neue Trends und komplexe Zusammenhänge.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7edd52e3f657498ca41b4d0e9772c44b_thumb.jpg" />
+  </programme>
+  <programme start="20260608200000 +0200" stop="20260608201500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260608201500 +0200" stop="20260608211500 +0200" channel="Das Erste HD">
+    <title lang="hr">Spielfeld Der Macht: Die Wm In Trumps Amerika</title>
+    <desc lang="hr">"Spielfeld der Macht" ist eine doclights-Produktion im Auftrag des WDR für Das Erste. Die Dokumentation ist ab 4. Juni in der ARD Mediathek verfügbar und läuft am 8. Juni um 20:15 Uhr im Ersten.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/9440d895ecc249ef80becd791d57e766_thumb.jpg" />
+  </programme>
+  <programme start="20260608211500 +0200" stop="20260608223000 +0200" channel="Das Erste HD">
+    <title lang="hr">Arena</title>
+    <desc lang="hr">Louis Klamroth und Jessy Wellmer laden Bürgerinnen und Bürger zum Dialog mit Politik und Gesellschaft ein. In der Sendung geht es um die Fußball‑WM und Fragen zur aktuellen Lage in den USA.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0fd18365d3d944a9b08a50f370f50c1b_thumb.jpg" />
+  </programme>
+  <programme start="20260608223000 +0200" stop="20260608230500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesthemen</title>
+    <desc lang="hr">Mit Wetter. Die Tagesthemen vermitteln ergänzende Informationen zu den tagesaktuellen Ereignissen und zeigen Zusammenhänge und Hintergründe.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1ad500ada5b34a23aa725b744049014e_thumb.jpg" />
+  </programme>
+  <programme start="20260608230500 +0200" stop="20260609002000 +0200" channel="Das Erste HD">
+    <title lang="hr">Maischberger</title>
+    <desc lang="hr">Schwarz-Rote Reformen und Wirtschafts- und Energiepolitik: Darüber diskutieren der bayerische Wirtschaftsminister und Vorsitzende der Freien Wähler, Hubert Aiwanger, und die Fraktionsvorsitzende...(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0ec4a22ea6144aa080d97bcb90e7d748_thumb.jpg" />
+  </programme>
+  <programme start="20260609002000 +0200" stop="20260609003000 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260609003000 +0200" stop="20260609020300 +0200" channel="Das Erste HD">
+    <title lang="hr">Tatort</title>
+    <desc lang="hr">Borowski und der gute Mensch. Bei einem Aufstand in der forensischen Klinik von Kiel gelingt Kai Korthals die Flucht aus der Sicherheitsverwahrung. Korthals, der zahlreiche Frauen tötete, ist für Borowski kein Unbekannter.(n)</desc>
+    <credits>
+      <director>Ilker Çatak</director>
+      <actor>Axel Milberg</actor>
+      <actor>Almila Bagriacik</actor>
+      <actor>Lars Eidinger</actor>
+      <actor>Sabine Timoteo</actor>
+      <actor>Thomas Kügel</actor>
+      <actor>Victoria Trauttmansdorff</actor>
+      <actor>Anja Antonowicz</actor>
+      <actor>Dagmar Leesch</actor>
+      <actor>Hans-Uwe Bauer</actor>
+      <actor>Anna-Lena Doll</actor>
+      <writer>Sascha Arango</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a16e708d72e344388f60c88ec66fc20e_thumb.jpg" />
+  </programme>
+  <programme start="20260609020300 +0200" stop="20260609020500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260609020500 +0200" stop="20260609032000 +0200" channel="Das Erste HD">
+    <title lang="hr">Maischberger</title>
+    <desc lang="hr">Schwarz-Rote Reformen und Wirtschafts- und Energiepolitik: Darüber diskutieren der bayerische Wirtschaftsminister und Vorsitzende der Freien Wähler, Hubert Aiwanger, und die Fraktionsvorsitzende...(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0ec4a22ea6144aa080d97bcb90e7d748_thumb.jpg" />
+  </programme>
+  <programme start="20260609032000 +0200" stop="20260609041000 +0200" channel="Das Erste HD">
+    <title lang="hr">Hubert Und Staller</title>
+    <desc lang="hr">Neues Glück im alten Bett. Ins Wolfratshausener Heimatmuseum wurde eingebrochen. Als Hubert und Staller am nächsten Morgen den Tatort untersuchen, finden sie die Leiche eines Wachmanns in einem ausgestellten Bauernschrank.(n)</desc>
+    <credits>
+      <director>Erik Haffner</director>
+      <actor>Christian Tramitz</actor>
+      <actor>Helmfried von Lüttichau</actor>
+      <actor>Michael Brandner</actor>
+      <actor>Annett Fleischer</actor>
+      <actor>Paul Sedlmeir</actor>
+      <actor>Hannes Ringlstetter</actor>
+      <actor>Karin Thaler</actor>
+      <actor>Carin C. Tietze</actor>
+      <actor>Julia Rosa Peer</actor>
+      <actor>Andreas Wimberger</actor>
+      <writer>Reinhard Krökel</writer>
+      <writer>Moritz Freitag</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d7c334690cf741c2a4e90c609f7d39c7_thumb.jpg" />
+  </programme>
+  <programme start="20260609041000 +0200" stop="20260609042800 +0200" channel="Das Erste HD">
+    <title lang="hr">Brisant</title>
+    <desc lang="hr">Das Infotainment-Magazin der ARD im Ersten wird in zahlreichen Dritten Programmen wiederholt. Auch im SR Fernsehen von Montag bis Donnerstag, jeweils ab 18.15 Uhr.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/20607aed932f40fc823bad9b1639de33_thumb.jpg" />
+  </programme>
+  <programme start="20260609042800 +0200" stop="20260609043000 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260609043000 +0200" stop="20260609053000 +0200" channel="Das Erste HD">
+    <title lang="hr">Spielfeld Der Macht: Die Wm In Trumps Amerika</title>
+    <desc lang="hr">"Spielfeld der Macht" ist eine doclights-Produktion im Auftrag des WDR für Das Erste. Die Dokumentation ist ab 4. Juni in der ARD Mediathek verfügbar und läuft am 8. Juni um 20:15 Uhr im Ersten.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/9440d895ecc249ef80becd791d57e766_thumb.jpg" />
+  </programme>
+  <programme start="20260609053000 +0200" stop="20260609090000 +0200" channel="Das Erste HD">
+    <title lang="hr">Zdf Morgenmagazin</title>
+    <desc lang="hr">ZDF-Morgenmagazin. Das "ZDF-Morgenmagazin" – der Blick in den Tag mit aktuellen, hintergründigen Berichten und Gesprächen aus Politik, Wirtschaft, Sport und Kultur. Live aus dem ZDF-Hauptstadtstudio.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/dfb6ae898a6d4b438f3ef3ea98a2a9fd_thumb.jpg" />
+  </programme>
+  <programme start="20260609090000 +0200" stop="20260609090500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260609090500 +0200" stop="20260609095500 +0200" channel="Das Erste HD">
+    <title lang="hr">Hubert Und Staller</title>
+    <desc lang="hr">Schwer erziehbar. Nachdem auf dem Zeislerhof eingebrochen wurde, ist der Hausherr überzeugt, dass die Täter vom Boxerhof kamen, wo schwer erziehbare Jugendliche wieder in die Gesellschaft integriert werden sollen.(n)</desc>
+    <credits>
+      <director>Sebastian Sorger</director>
+      <actor>Christian Tramitz</actor>
+      <actor>Helmfried von Lüttichau</actor>
+      <actor>Michael Brandner</actor>
+      <actor>Annett Fleischer</actor>
+      <actor>Paul Sedlmeir</actor>
+      <actor>Karin Thaler</actor>
+      <actor>Carin C. Tietze</actor>
+      <actor>Hannes Ringlstetter</actor>
+      <actor>Winfried Frey</actor>
+      <actor>Marisa Burger</actor>
+      <writer>Philip Kaetner</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/353a3a0c54f84ce18cce653f7dab3792_thumb.jpg" />
+  </programme>
+  <programme start="20260609095500 +0200" stop="20260609104000 +0200" channel="Das Erste HD">
+    <title lang="hr">Großstadtrevier</title>
+    <desc lang="hr">Die Kunst zu kämpfen. Eigentlich will Nils Sanchez den Kids beim Taekwondo-Training vor allem die Möglichkeit geben sich auszupowern. Doch dann läuft etwas schief.(n)</desc>
+    <credits>
+      <director>Claude Giffel</director>
+      <actor>Saskia Fischer</actor>
+      <actor>Maria Ketikidou</actor>
+      <actor>Wanda Perdelwitz</actor>
+      <actor>Patrick Abozen</actor>
+      <actor>Sven Fricke</actor>
+      <actor>Enrique Fiß</actor>
+      <actor>Torsten Lennie Münchow</actor>
+      <actor>Wolfram Grandezka</actor>
+      <actor>Niklas Post</actor>
+      <actor>Marcus Jakovljevic</actor>
+      <writer>Sören Hüper</writer>
+      <writer>Beatrice Blank</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b53a300793ee4b2a9b3ebfef1327af44_thumb.jpg" />
+  </programme>
+  <programme start="20260609104000 +0200" stop="20260609104500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260609104500 +0200" stop="20260609111500 +0200" channel="Das Erste HD">
+    <title lang="hr">Meister Des Alltags</title>
+    <desc lang="hr">Heute werden das Saarbrücker Jugendhilfeprojekt auf dem Bauernhof und ein Fußballmobil für junge Kicker in Pirmasens unterstützt. Für die ist der Verein SG 05 eine Anlaufstelle in allen Lebenslagen.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/99eee082147042b49d2c1ae85d8df965_thumb.jpg" />
+  </programme>
+  <programme start="20260609111500 +0200" stop="20260609120000 +0200" channel="Das Erste HD">
+    <title lang="hr">Gefragt – Gejagt</title>
+    <desc lang="hr">In dieser Quizshow tritt ein Team von vier Kandidatinnen und Kandidaten gegen ein Superhirn an. Das ist keine leichte Aufgabe für sie, denn die Jägerinnen und die Jäger sind ausgewiesene Quizprofis.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/40fb11125be4487b8cabcd3e4b96b46e_thumb.jpg" />
+  </programme>
+  <programme start="20260609120000 +0200" stop="20260609140000 +0200" channel="Das Erste HD">
+    <title lang="hr">Ard Mittagsmagazin</title>
+    <desc lang="hr">Mit Tagesschau. Nachrichten aus aller Welt, Neues aus Politik, Wirtschaft, Börse, Sport, Kultur und Service.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/11296b5447d846afbdfed21398558c77_thumb.jpg" />
+  </programme>
+  <programme start="20260609140000 +0200" stop="20260609141000 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260609141000 +0200" stop="20260609150000 +0200" channel="Das Erste HD">
+    <title lang="hr">Rote Rosen</title>
+    <desc lang="hr">Toni ist verwirrt, denn sie hatte einen erotischen Traum mit Ellie. Als sie Jonas davon erzählt, können beide lachen. Doch als Jonas Ellie einweihen will, ist Toni strikt dagegen.(n)</desc>
+    <credits>
+      <director>Jackie Baier</director>
+      <actor>Eva-Maria Grein von Friedl</actor>
+      <actor>Juana Nagel</actor>
+      <actor>Daniel Fritz</actor>
+      <actor>Florian Odendahl</actor>
+      <actor>Caroline Schreiber</actor>
+      <actor>Patrick Schlegel</actor>
+      <actor>Jan Stapelfeldt</actor>
+      <actor>Martina Eitner-Acheampong</actor>
+      <actor>Hermann Toelcke</actor>
+      <actor>Maria Fuchs</actor>
+      <writer>Sven Ulrich</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d2b5420d28904971a6b9cb92acc07e32_thumb.jpg" />
+  </programme>
+  <programme start="20260609150000 +0200" stop="20260609151000 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260609151000 +0200" stop="20260609160000 +0200" channel="Das Erste HD">
+    <title lang="hr">Sturm Der Liebe</title>
+    <desc lang="hr">Hildegard hat Mitleid mit Adam. Fanny will die Hoffnung auf Kilian nicht aufgeben. Yvonne ist entgeistert, als sie plötzlich als Diebin dasteht.(n)</desc>
+    <credits>
+      <director>Udo Müller</director>
+      <director>Alexander Wiedl</director>
+      <actor>Philip Birnstiel</actor>
+      <actor>Sepp Schauer</actor>
+      <actor>Dieter Bach</actor>
       <actor>Sven Waasner</actor>
       <actor>Johanna Graen</actor>
       <actor>Thimo Meitner</actor>
       <actor>Antje Hagen</actor>
       <actor>Isabell Stern</actor>
       <actor>Anthony Mrosek</actor>
-      <actor>Anna Karolin Berger</actor>
-      <actor>Aurel Klug</actor>
-      <writer>Sargon Youkhana</writer>
+      <actor>Yeliz Simsek</actor>
+      <writer>Oliver Thaller</writer>
+      <writer>Barbara Siller</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f93c44a06e9d42ffa18a4bfd6a66b998_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b9840389fff744ad8f2155d9a40e6f16_thumb.jpg" />
   </programme>
-  <programme start="20260526160000 +0200" stop="20260526161000 +0200" channel="Das Erste HD">
+  <programme start="20260609160000 +0200" stop="20260609161000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260526161000 +0200" stop="20260526170000 +0200" channel="Das Erste HD">
+  <programme start="20260609161000 +0200" stop="20260609170000 +0200" channel="Das Erste HD">
     <title lang="hr">Elefant, Tiger &amp; Co</title>
-    <desc lang="hr">Wer zickt hier rum?. Geben und Nehmen Auf dem Wirtschaftshof des Nashornhauses lebt eine ungewöhnliche, vierköpfige Wohngemeinschaft: Die Watussi-Bullen Raba und Buba und die Ziegen Zick und Zack.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1fdbd6bdaade4eb8b6448032f6d70faf_thumb.jpg" />
+    <desc lang="hr">Im Wellnesstempel. Im Wellnesstempel Geschichten aus dem Leipziger Zoo.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/5f6df2e849b64c29af46b02a09d64c8e_thumb.jpg" />
   </programme>
-  <programme start="20260526170000 +0200" stop="20260526171500 +0200" channel="Das Erste HD">
+  <programme start="20260609170000 +0200" stop="20260609171500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260526171500 +0200" stop="20260526180000 +0200" channel="Das Erste HD">
+  <programme start="20260609171500 +0200" stop="20260609180000 +0200" channel="Das Erste HD">
     <title lang="hr">Brisant</title>
     <desc lang="hr">Das Infotainment-Magazin der ARD im Ersten wird in zahlreichen Dritten Programmen wiederholt. Auch im SR Fernsehen von Montag bis Donnerstag, jeweils ab 18.15 Uhr.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/20607aed932f40fc823bad9b1639de33_thumb.jpg" />
   </programme>
-  <programme start="20260526180000 +0200" stop="20260526185000 +0200" channel="Das Erste HD">
+  <programme start="20260609180000 +0200" stop="20260609185000 +0200" channel="Das Erste HD">
     <title lang="hr">Gefragt – Gejagt</title>
     <desc lang="hr">Kandidatinnen und Kandidaten treten gegen ein Superhirn – eine "Jägerin" oder einen "Jäger" – an. Keine leichte Aufgabe, denn diese sind ausgewiesene Quiz-Champions!(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b03bde72d4954910955c2231d219a651_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1e8ee9cb755846c5be121beba22e5a28_thumb.jpg" />
   </programme>
-  <programme start="20260526185000 +0200" stop="20260526194500 +0200" channel="Das Erste HD">
+  <programme start="20260609185000 +0200" stop="20260609194500 +0200" channel="Das Erste HD">
     <title lang="hr">Wapo Bodensee</title>
-    <desc lang="hr">Unsichtbarer Feind. Als ein Tretboot durch Sabotage sinkt, ertrinkt ein körperlich eingeschränkter Passagier. Die Ermittler verdächtigen einen Ex-Angestellten des Bootsverleihs, aber auch die Begleiterin des Opfers.(n)</desc>
+    <desc lang="hr">Zwei Leben. Polizist Jakob sucht seine Tochter Tammy, die einfach von zu Hause abgehauen ist, während seine Kollegen den Mord an Verena Kirves untersuchen, die am Ufer des Bodensees erwürgt wurde.(n)</desc>
     <credits>
       <director>Daniel Rakete Siegel</director>
       <actor>Floriane Daniel</actor>
@@ -881,46 +527,61 @@
       <actor>Wendy Güntensperger</actor>
       <actor>Max König</actor>
       <actor>Diana Körner</actor>
-      <actor>Lilly Menke</actor>
       <actor>Charlotte König</actor>
-      <actor>Charlotte Thompson</actor>
-      <actor>Marisa Leonie Bach</actor>
-      <actor>Timo Hübsch</actor>
-      <writer>Andreas Dirr</writer>
-      <writer>Andreas Hug</writer>
+      <actor>Peter Trabner</actor>
+      <actor>Lazar Simaifar</actor>
+      <actor>Ivan Anderson</actor>
+      <actor>Lilli Salonen</actor>
+      <writer>Patrick Lorenz</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c520473a41ed48be99a9b763290db982_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d4bdd5c223bc49fa8c8ed8193c4cced9_thumb.jpg" />
   </programme>
-  <programme start="20260526194500 +0200" stop="20260526194800 +0200" channel="Das Erste HD">
-    <title lang="hr">Dialog Vor Acht</title>
-    <desc lang="hr">Die eigene Meinung mit anderen Augen sehen: In insgesamt 13 Episoden widmet sich "Dialog vor acht" jeweils einem thematischen Schwerpunkt zur ARD-Dialog-Aktion – für mehr Dialog auf Augenhöhe und...(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f05ab05cd3a1458ea77df1e421439c62_thumb.jpg" />
-  </programme>
-  <programme start="20260526194800 +0200" stop="20260526195000 +0200" channel="Das Erste HD">
+  <programme start="20260609194500 +0200" stop="20260609195000 +0200" channel="Das Erste HD">
     <title lang="hr">Sportschau Vor Acht</title>
     <desc lang="hr">Neues von der Nationalmannschaft. Ab dem 26. Mai und damit rund zwei Wochen vor Beginn der Fußball-Weltmeisterschaft in Kanada, Mexiko und den USA berichtet "Sportschau vor acht" in 14 Folgen von der deutschen...(n)</desc>
   </programme>
-  <programme start="20260526195000 +0200" stop="20260526195500 +0200" channel="Das Erste HD">
+  <programme start="20260609195000 +0200" stop="20260609195500 +0200" channel="Das Erste HD">
     <title lang="hr">Wetter Vor Acht</title>
     <desc lang="hr">Sonne, Regen, Schnee oder bewölkt? Wie wird das Wetter? Diese Sendung präsentiert auf einer Wetterkarte das aktuelle Wetter und die Aussichten auf die kommende Nacht und die folgenden Tage.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e7bf1c873a2b47d799f0556bad3a04c6_thumb.jpg" />
   </programme>
-  <programme start="20260526195500 +0200" stop="20260526200000 +0200" channel="Das Erste HD">
+  <programme start="20260609195500 +0200" stop="20260609200000 +0200" channel="Das Erste HD">
     <title lang="hr">Wirtschaft Vor Acht</title>
     <desc lang="hr">Die Sendung präsentiert Ereignisse aus der Wirtschaftswelt und Aktuelles von der Frankfurter Börse. Ein Moderatorenteam erklärt Nachrichten der Wirtschaft, neue Trends und komplexe Zusammenhänge.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7edd52e3f657498ca41b4d0e9772c44b_thumb.jpg" />
   </programme>
-  <programme start="20260526200000 +0200" stop="20260526201500 +0200" channel="Das Erste HD">
+  <programme start="20260609200000 +0200" stop="20260609201500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260526201500 +0200" stop="20260526210000 +0200" channel="Das Erste HD">
-    <title lang="hr">In Aller Freundschaft</title>
-    <desc lang="hr">Bruch. Auf einer Wanderung findet Dr. Kai Hoffmann einen Schwerverletzten, der von einem Baum eingeklemmt ist. Dessen Leben kann nur durch eine Armamputation gerettet werden, doch der Mann weigert sich.(n)</desc>
+  <programme start="20260609201500 +0200" stop="20260609210000 +0200" channel="Das Erste HD">
+    <title lang="hr">Die Kanzlei</title>
+    <desc lang="hr">Nackte Tatsachen. Gellert verteidigt Charlies Bruder, dem fälschlich ein Überfall zur Last gelegt wird.(n)</desc>
     <credits>
-      <director>Patricia Frey</director>
-      <actor>Michael A. Grimm</actor>
+      <director>Stephanie Doehlemann</director>
+      <actor>Sabine Postel</actor>
+      <actor>Herbert Knaup</actor>
+      <actor>Mathilde Bundschuh</actor>
+      <actor>Marie Anne Fliegel</actor>
+      <actor>Esther Schweins</actor>
+      <actor>Josef Heynert</actor>
+      <actor>Thomas Kügel</actor>
+      <actor>Neil Malik Abdullah</actor>
+      <actor>Winnie Böwe</actor>
+      <actor>Joseph Konrad Bundschuh</actor>
+      <writer>Thorsten Näter</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ee019d5a6e224257b91142bfaba18302_thumb.jpg" />
+  </programme>
+  <programme start="20260609210000 +0200" stop="20260609214500 +0200" channel="Das Erste HD">
+    <title lang="hr">In Aller Freundschaft</title>
+    <desc lang="hr">Schlag auf Schlag. Walter und Marika landen nach einem Stromschlag in der Sachsenklinik, Marika gibt sich als seine Tochter aus, um Informationen zu erhalten.(n)</desc>
+    <credits>
+      <director>Daniel Drechsel-Grau</director>
+      <actor>Nadja Maier</actor>
+      <actor>Christian Beermann</actor>
+      <actor>Patrick Joswig</actor>
       <actor>Bernhard Bettermann</actor>
       <actor>Thomas Rühmann</actor>
       <actor>Andrea Kathrin Loewig</actor>
@@ -928,62 +589,57 @@
       <actor>Tan Çağlar</actor>
       <actor>Jascha Rust</actor>
       <actor>Louise Sophie Arnold</actor>
-      <actor>Alexa Maria Surholt</actor>
-      <actor>Udo Schenk</actor>
-      <writer>Ben Zwanzig</writer>
+      <writer>Klaus Jochmann</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/10356b8f865d4845a06f9fa18e3603a1_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/845488e39fbf4cb5a35e0e63c1d7c8da_thumb.jpg" />
   </programme>
-  <programme start="20260526210000 +0200" stop="20260526214500 +0200" channel="Das Erste HD">
-    <title lang="hr">In Aller Freundschaft</title>
-    <desc lang="hr">Einstiegstänze. Während Dr. Lucia Böhm eine Patientin von einem lebenswichtigen Herzschrittmacher zu überzeugen versuchen, erleidet die übermüdete Dr. Kathrin Globisch einen Unfall.(n)</desc>
-    <credits>
-      <director>Patricia Frey</director>
-      <actor>Nina Petri</actor>
-      <actor>Helena Pieske</actor>
-      <actor>Bernhard Bettermann</actor>
-      <actor>Thomas Rühmann</actor>
-      <actor>Andrea Kathrin Loewig</actor>
-      <actor>Frédéric Brossier</actor>
-      <actor>Tan Çağlar</actor>
-      <actor>Jascha Rust</actor>
-      <actor>Louise Sophie Arnold</actor>
-      <actor>Alexa Maria Surholt</actor>
-      <writer>Andreas Püschel</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2c469d138fa941b0b4ae46cddea685dc_thumb.jpg" />
+  <programme start="20260609214500 +0200" stop="20260609221500 +0200" channel="Das Erste HD">
+    <title lang="hr">Report Mainz</title>
+    <desc lang="hr">Report Mainz deckt Missstände und Fehlentwicklungen auf – in Politik, Wirtschaft und Gesellschaft. Report Mainz zeigt die Wahrheit dahinter und nennt die Verantwortlichen beim Namen.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d3718b3a09ff48dda5c746bfb14b0065_thumb.jpg" />
   </programme>
-  <programme start="20260526214500 +0200" stop="20260526221500 +0200" channel="Das Erste HD">
-    <title lang="hr">Report München</title>
-    <desc lang="hr">Investigativer Journalismus, seriöse Informationen, klare Positionen: Das sind die Markenzeichen von report MÜNCHEN.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/95a07b000cda47cabf06614795b86188_thumb.jpg" />
-  </programme>
-  <programme start="20260526221500 +0200" stop="20260526225000 +0200" channel="Das Erste HD">
+  <programme start="20260609221500 +0200" stop="20260609225000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesthemen</title>
     <desc lang="hr">Mit Wetter. Die Tagesthemen vermitteln ergänzende Informationen zu den tagesaktuellen Ereignissen und zeigen Zusammenhänge und Hintergründe.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1ad500ada5b34a23aa725b744049014e_thumb.jpg" />
   </programme>
-  <programme start="20260526225000 +0200" stop="20260526233500 +0200" channel="Das Erste HD">
-    <title lang="hr">Unsichtbarer Angriff: Wie Russlands Störsignale Europa Bedrohen</title>
-    <desc lang="hr">Russland nutzt gezielte Störsignale, um die EU-Staaten zu destabilisieren. Die Dokumentation zeigt, wo diese Signale ihren Ursprung haben und wie weitreichend die Auswirkungen dieser Angriffe sind.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d6916b8904d34fc19923a877d573878e_thumb.jpg" />
+  <programme start="20260609225000 +0200" stop="20260610000500 +0200" channel="Das Erste HD">
+    <title lang="hr">Maischberger</title>
+    <desc lang="hr">Jeden Dienstag und Mittwoch begrüßt Sandra Maischberger zum Talk Gäste in ihrem Studio und diskutiert mit ihnen aktuelle Themen.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0ec4a22ea6144aa080d97bcb90e7d748_thumb.jpg" />
   </programme>
-  <programme start="20260526233500 +0200" stop="20260527000500 +0200" channel="Das Erste HD">
-    <title lang="hr">Stottern Und Lehrerin Werden? Jennis Weg Ins Klassenzimmer</title>
-    <desc lang="hr">Mit 32 Jahren verändert ein Schlaganfall das Leben von Jennifer Springer schlagartig.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b2d560f966a2434bac0ba2243bafb97b_thumb.jpg" />
-  </programme>
-  <programme start="20260527000500 +0200" stop="20260527001500 +0200" channel="Das Erste HD">
+  <programme start="20260610000500 +0200" stop="20260610001500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260527001500 +0200" stop="20260527010000 +0200" channel="Das Erste HD">
-    <title lang="hr">In Aller Freundschaft</title>
-    <desc lang="hr">Bruch. Auf einer Wanderung findet Dr. Kai Hoffmann einen Schwerverletzten, der von einem Baum eingeklemmt ist. Dessen Leben kann nur durch eine Armamputation gerettet werden, doch der Mann weigert sich.(n)</desc>
+  <programme start="20260610001500 +0200" stop="20260610010000 +0200" channel="Das Erste HD">
+    <title lang="hr">Die Kanzlei</title>
+    <desc lang="hr">Nackte Tatsachen. Gellert verteidigt Charlies Bruder, dem fälschlich ein Überfall zur Last gelegt wird.(n)</desc>
     <credits>
-      <director>Patricia Frey</director>
-      <actor>Michael A. Grimm</actor>
+      <director>Stephanie Doehlemann</director>
+      <actor>Sabine Postel</actor>
+      <actor>Herbert Knaup</actor>
+      <actor>Mathilde Bundschuh</actor>
+      <actor>Marie Anne Fliegel</actor>
+      <actor>Esther Schweins</actor>
+      <actor>Josef Heynert</actor>
+      <actor>Thomas Kügel</actor>
+      <actor>Neil Malik Abdullah</actor>
+      <actor>Winnie Böwe</actor>
+      <actor>Joseph Konrad Bundschuh</actor>
+      <writer>Thorsten Näter</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ee019d5a6e224257b91142bfaba18302_thumb.jpg" />
+  </programme>
+  <programme start="20260610010000 +0200" stop="20260610014800 +0200" channel="Das Erste HD">
+    <title lang="hr">In Aller Freundschaft</title>
+    <desc lang="hr">Schlag auf Schlag. Walter und Marika landen nach einem Stromschlag in der Sachsenklinik, Marika gibt sich als seine Tochter aus, um Informationen zu erhalten.(n)</desc>
+    <credits>
+      <director>Daniel Drechsel-Grau</director>
+      <actor>Nadja Maier</actor>
+      <actor>Christian Beermann</actor>
+      <actor>Patrick Joswig</actor>
       <actor>Bernhard Bettermann</actor>
       <actor>Thomas Rühmann</actor>
       <actor>Andrea Kathrin Loewig</actor>
@@ -991,135 +647,81 @@
       <actor>Tan Çağlar</actor>
       <actor>Jascha Rust</actor>
       <actor>Louise Sophie Arnold</actor>
-      <actor>Alexa Maria Surholt</actor>
-      <actor>Udo Schenk</actor>
-      <writer>Ben Zwanzig</writer>
+      <writer>Klaus Jochmann</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/10356b8f865d4845a06f9fa18e3603a1_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/845488e39fbf4cb5a35e0e63c1d7c8da_thumb.jpg" />
   </programme>
-  <programme start="20260527010000 +0200" stop="20260527014800 +0200" channel="Das Erste HD">
-    <title lang="hr">In Aller Freundschaft</title>
-    <desc lang="hr">Einstiegstänze. Während Dr. Lucia Böhm eine Patientin von einem lebenswichtigen Herzschrittmacher zu überzeugen versuchen, erleidet die übermüdete Dr. Kathrin Globisch einen Unfall.(n)</desc>
-    <credits>
-      <director>Patricia Frey</director>
-      <actor>Nina Petri</actor>
-      <actor>Helena Pieske</actor>
-      <actor>Bernhard Bettermann</actor>
-      <actor>Thomas Rühmann</actor>
-      <actor>Andrea Kathrin Loewig</actor>
-      <actor>Frédéric Brossier</actor>
-      <actor>Tan Çağlar</actor>
-      <actor>Jascha Rust</actor>
-      <actor>Louise Sophie Arnold</actor>
-      <actor>Alexa Maria Surholt</actor>
-      <writer>Andreas Püschel</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2c469d138fa941b0b4ae46cddea685dc_thumb.jpg" />
-  </programme>
-  <programme start="20260527014800 +0200" stop="20260527015000 +0200" channel="Das Erste HD">
+  <programme start="20260610014800 +0200" stop="20260610015000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260527015000 +0200" stop="20260527024000 +0200" channel="Das Erste HD">
-    <title lang="hr">Hubert Und Staller</title>
-    <desc lang="hr">Walzverhalten. Als Hubert und Staller gerufen werden, um einen Ehestreit zu schlichten, finden sie im Müllcontainer einen Toten: Es ist der Wandergeselle Kurt Keppler, der das Dach des Hauses reparieren sollte.(n)</desc>
-    <credits>
-      <director>Erik Haffner</director>
-      <actor>Christian Tramitz</actor>
-      <actor>Helmfried von Lüttichau</actor>
-      <actor>Michael Brandner</actor>
-      <actor>Karin Thaler</actor>
-      <actor>Annett Fleischer</actor>
-      <actor>Paul Sedlmeir</actor>
-      <actor>Hannes Ringlstetter</actor>
-      <actor>Carin C. Tietze</actor>
-      <actor>Andreas Giebel</actor>
-      <actor>Stephanie Müller-Hagen</actor>
-      <writer>Michael Pohl</writer>
-      <writer>Paul Milbers</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8fcb0b2262a043c182a28de2176a0c99_thumb.jpg" />
+  <programme start="20260610015000 +0200" stop="20260610030500 +0200" channel="Das Erste HD">
+    <title lang="hr">Maischberger</title>
+    <desc lang="hr">Jeden Dienstag und Mittwoch begrüßt Sandra Maischberger zum Talk Gäste in ihrem Studio und diskutiert mit ihnen aktuelle Themen.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0ec4a22ea6144aa080d97bcb90e7d748_thumb.jpg" />
   </programme>
-  <programme start="20260527024000 +0200" stop="20260527032500 +0200" channel="Das Erste HD">
-    <title lang="hr">Großstadtrevier</title>
-    <desc lang="hr">Die zwei Musketiere. Bei einem Inhaftierten besteht der Verdacht einer Erkrankung am hochinfektiösen Parimafieber.(n)</desc>
-    <credits>
-      <director>Torsten Wacker</director>
-      <actor>Saskia Fischer</actor>
-      <actor>Maria Ketikidou</actor>
-      <actor>Wanda Perdelwitz</actor>
-      <actor>Patrick Abozen</actor>
-      <actor>Sven Fricke</actor>
-      <actor>Enrique Fiß</actor>
-      <actor>Torsten Lennie Münchow</actor>
-      <actor>Ole Fischer</actor>
-      <actor>Marian Meder</actor>
-      <actor>Stephan Tölle</actor>
-      <writer>Beatrice Blank</writer>
-      <writer>Sören Hüper</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/a18eac88e79d4b63b3dd2e29c3c38e81_thumb.jpg" />
+  <programme start="20260610030500 +0200" stop="20260610035000 +0200" channel="Das Erste HD">
+    <title lang="hr">Der Plattensee – Ungarns Wildes Meer</title>
+    <desc lang="hr">Jeder der vielen Seen in Fischliebhabern erwartet werden.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e087b19da4d9477aa629c452dd6474e1_thumb.jpg" />
   </programme>
-  <programme start="20260527032500 +0200" stop="20260527041000 +0200" channel="Das Erste HD">
-    <title lang="hr">Unsichtbarer Angriff: Wie Russlands Störsignale Europa Bedrohen</title>
-    <desc lang="hr">Russland nutzt gezielte Störsignale, um die EU-Staaten zu destabilisieren. Die Dokumentation zeigt, wo diese Signale ihren Ursprung haben und wie weitreichend die Auswirkungen dieser Angriffe sind.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d6916b8904d34fc19923a877d573878e_thumb.jpg" />
+  <programme start="20260610035000 +0200" stop="20260610042000 +0200" channel="Das Erste HD">
+    <title lang="hr">Europamagazin</title>
+    <desc lang="hr">Das Europamagazin der ARD zeigt mit Reportagen, Hintergrundberichten und aktuellen Beiträgen andere Perspektiven, fremde Mentalitäten und somit die Herausforderungen und die Möglichkeiten eines...(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/28c9ce29fbf54957bea76c39bbb88c8c_thumb.jpg" />
   </programme>
-  <programme start="20260527041000 +0200" stop="20260527044000 +0200" channel="Das Erste HD">
-    <title lang="hr">Stottern Und Lehrerin Werden? Jennis Weg Ins Klassenzimmer</title>
-    <desc lang="hr">Mit 32 Jahren verändert ein Schlaganfall das Leben von Jennifer Springer schlagartig.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b2d560f966a2434bac0ba2243bafb97b_thumb.jpg" />
-  </programme>
-  <programme start="20260527044000 +0200" stop="20260527045800 +0200" channel="Das Erste HD">
+  <programme start="20260610042000 +0200" stop="20260610045800 +0200" channel="Das Erste HD">
     <title lang="hr">Brisant</title>
     <desc lang="hr">Das Infotainment-Magazin der ARD im Ersten wird in zahlreichen Dritten Programmen wiederholt. Auch im SR Fernsehen von Montag bis Donnerstag, jeweils ab 18.15 Uhr.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/20607aed932f40fc823bad9b1639de33_thumb.jpg" />
   </programme>
-  <programme start="20260527045800 +0200" stop="20260527050000 +0200" channel="Das Erste HD">
+  <programme start="20260610045800 +0200" stop="20260610050000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260527050000 +0200" stop="20260527053000 +0200" channel="Das Erste HD">
-    <title lang="hr">Report München</title>
-    <desc lang="hr">Investigativer Journalismus, seriöse Informationen, klare Positionen: Das sind die Markenzeichen von report MÜNCHEN.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/95a07b000cda47cabf06614795b86188_thumb.jpg" />
+  <programme start="20260610050000 +0200" stop="20260610053000 +0200" channel="Das Erste HD">
+    <title lang="hr">Report Mainz</title>
+    <desc lang="hr">Report Mainz deckt Missstände und Fehlentwicklungen auf – in Politik, Wirtschaft und Gesellschaft. Report Mainz zeigt die Wahrheit dahinter und nennt die Verantwortlichen beim Namen.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d3718b3a09ff48dda5c746bfb14b0065_thumb.jpg" />
   </programme>
-  <programme start="20260527053000 +0200" stop="20260527090000 +0200" channel="Das Erste HD">
+  <programme start="20260610053000 +0200" stop="20260610090000 +0200" channel="Das Erste HD">
     <title lang="hr">Zdf Morgenmagazin</title>
     <desc lang="hr">ZDF-Morgenmagazin. Das "ZDF-Morgenmagazin" – der Blick in den Tag mit aktuellen, hintergründigen Berichten und Gesprächen aus Politik, Wirtschaft, Sport und Kultur. Live aus dem ZDF-Hauptstadtstudio.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/dfb6ae898a6d4b438f3ef3ea98a2a9fd_thumb.jpg" />
   </programme>
-  <programme start="20260527090000 +0200" stop="20260527090500 +0200" channel="Das Erste HD">
+  <programme start="20260610090000 +0200" stop="20260610090500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260527090500 +0200" stop="20260527095500 +0200" channel="Das Erste HD">
+  <programme start="20260610090500 +0200" stop="20260610095500 +0200" channel="Das Erste HD">
     <title lang="hr">Hubert Und Staller</title>
-    <desc lang="hr">Waschen, schneiden, umlegen. Staller findet die Besitzerin eines Friseursalons erschlagen in ihrem Laden vor. Der Täter hat keine Spuren hinterlassen, und da die Kasse ausgeräumt ist, sieht alles nach Raubmord aus.(n)</desc>
+    <desc lang="hr">Ein Tattoo für die Ewigkeit. Hubert und Staller finden in einem parkenden Wagen eine Leiche. Dr. Anja Licht fällt der erhöhte Blutzuckerspiegel des Toten auf. Sie glaubt, dass er an einer Überdosis Insulin gestorben sein muss.(n)</desc>
     <credits>
-      <director>Erik Haffner</director>
+      <director>Sebastian Sorger</director>
       <actor>Christian Tramitz</actor>
       <actor>Helmfried von Lüttichau</actor>
       <actor>Michael Brandner</actor>
-      <actor>Karin Thaler</actor>
       <actor>Annett Fleischer</actor>
       <actor>Paul Sedlmeir</actor>
+      <actor>Karin Thaler</actor>
       <actor>Hannes Ringlstetter</actor>
       <actor>Carin C. Tietze</actor>
-      <actor>Tinka Kleffner</actor>
-      <actor>Kai Lentrodt</actor>
-      <writer>Alexander Söllner</writer>
+      <actor>Björn Bonn</actor>
+      <actor>Victoria Sordo</actor>
+      <writer>Antje Bähr</writer>
+      <writer>Philip Kaetner</writer>
+      <writer>Oliver Mielke</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/453f065f81be48feb830728f73b61b62_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ca43128f04954e169b23021cf733b21a_thumb.jpg" />
   </programme>
-  <programme start="20260527095500 +0200" stop="20260527104000 +0200" channel="Das Erste HD">
+  <programme start="20260610095500 +0200" stop="20260610104000 +0200" channel="Das Erste HD">
     <title lang="hr">Großstadtrevier</title>
-    <desc lang="hr">Fremd unter Fremden. Nina und Lukas nehmen an einem sogenannten Kuschelkurs teil – eigentlich nur, um den Dieb der Kuschelmatten zu ermitteln.(n)</desc>
+    <desc lang="hr">Königs Fall. Der erste Erfolg gegen die Bande, die in Hamburg große Mengen der Droge Crystal Meth verteilt, ist verraucht: Das Schmuggeln und Dealen geht weiter.(n)</desc>
     <credits>
-      <director>Torsten Wacker</director>
+      <director>Bettina Schoeller Bouju</director>
       <actor>Saskia Fischer</actor>
       <actor>Maria Ketikidou</actor>
       <actor>Wanda Perdelwitz</actor>
@@ -1127,43 +729,43 @@
       <actor>Sven Fricke</actor>
       <actor>Enrique Fiß</actor>
       <actor>Torsten Lennie Münchow</actor>
-      <actor>Thomas Wüpper</actor>
-      <actor>Aaron Le</actor>
-      <actor>Thomas Ziesch</actor>
-      <writer>Andrej Sorin</writer>
+      <actor>Wolfram Grandezka</actor>
+      <actor>Victoria Schulz</actor>
+      <actor>Claudiu Mark Draghici</actor>
+      <writer>Guntmar Lasnig</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4150bd0fac0f435184619beb2c632779_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/943b6c2b2a284b57b5c7a68a3b2daf98_thumb.jpg" />
   </programme>
-  <programme start="20260527104000 +0200" stop="20260527104500 +0200" channel="Das Erste HD">
+  <programme start="20260610104000 +0200" stop="20260610104500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260527104500 +0200" stop="20260527111500 +0200" channel="Das Erste HD">
+  <programme start="20260610104500 +0200" stop="20260610111500 +0200" channel="Das Erste HD">
     <title lang="hr">Meister Des Alltags</title>
-    <desc lang="hr">Stärken Kniebeugen auch die Oberkörpermuskulatur? Kann man auch eine abgetrennte Arbeitsecke zu Hause steuerlich absetzen? Und wie schmeckt ein Elefantenrüssel?(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/9a5d8db86e094de99244eb3435ca0149_thumb.jpg" />
+    <desc lang="hr">In dieser Folge geht der Erlös an die Initiative "Ferienfreizeiten für sozial benachteiligte Kinder" in Wolfsfeld sowie an das Heilbronner Projekt "Südstadtkids".(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/18e519fdb811495f8198b8479945977e_thumb.jpg" />
   </programme>
-  <programme start="20260527111500 +0200" stop="20260527120000 +0200" channel="Das Erste HD">
+  <programme start="20260610111500 +0200" stop="20260610120000 +0200" channel="Das Erste HD">
     <title lang="hr">Gefragt – Gejagt</title>
     <desc lang="hr">In dieser Quizshow tritt ein Team von vier Kandidatinnen und Kandidaten gegen ein Superhirn an. Das ist keine leichte Aufgabe für sie, denn die Jägerinnen und die Jäger sind ausgewiesene Quizprofis.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c929b68a00b24648acb905ba6676b720_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1594e199ed70406997ea25ef3c8a1a66_thumb.jpg" />
   </programme>
-  <programme start="20260527120000 +0200" stop="20260527140000 +0200" channel="Das Erste HD">
+  <programme start="20260610120000 +0200" stop="20260610140000 +0200" channel="Das Erste HD">
     <title lang="hr">Ard Mittagsmagazin</title>
     <desc lang="hr">Mit Tagesschau. Nachrichten aus aller Welt, Neues aus Politik, Wirtschaft, Börse, Sport, Kultur und Service.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/11296b5447d846afbdfed21398558c77_thumb.jpg" />
   </programme>
-  <programme start="20260527140000 +0200" stop="20260527141000 +0200" channel="Das Erste HD">
+  <programme start="20260610140000 +0200" stop="20260610141000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260527141000 +0200" stop="20260527150000 +0200" channel="Das Erste HD">
+  <programme start="20260610141000 +0200" stop="20260610150000 +0200" channel="Das Erste HD">
     <title lang="hr">Rote Rosen</title>
-    <desc lang="hr">Lou hat die Krise in der EmKa bravourös gemeistert und sogar Viktoria aus der Schusslinie geholt.(n)</desc>
+    <desc lang="hr">Jess möchte die zufällig entstandene Liebesgeschichte mit Daniel romantisch nachspielen und erfindet kurzerhand lauter erste Male.(n)</desc>
     <credits>
-      <director>Martina Allgeyer</director>
+      <director>Jackie Baier</director>
       <actor>Eva-Maria Grein von Friedl</actor>
       <actor>Juana Nagel</actor>
       <actor>Daniel Fritz</actor>
@@ -1174,411 +776,716 @@
       <actor>Martina Eitner-Acheampong</actor>
       <actor>Hermann Toelcke</actor>
       <actor>Maria Fuchs</actor>
-      <writer>Philipp Drehmann</writer>
+      <writer>Sven Ulrich</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8948750a09ca4f56a2a1000c29b86c56_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/900fc76938ca4f53997b9779b66ba775_thumb.jpg" />
   </programme>
-  <programme start="20260527150000 +0200" stop="20260527151000 +0200" channel="Das Erste HD">
+  <programme start="20260610150000 +0200" stop="20260610151000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260527151000 +0200" stop="20260527160000 +0200" channel="Das Erste HD">
+  <programme start="20260610151000 +0200" stop="20260610160000 +0200" channel="Das Erste HD">
     <title lang="hr">Sturm Der Liebe</title>
-    <desc lang="hr">Kilian gesteht Fanny, dass er sich neu in sie verliebt hat. Christoph ist fassungslos, dass Sophia in die Saalfeld-Wohnung ziehen will.(n)</desc>
+    <desc lang="hr">Yvonne will, dass Erik vorübergehend auszieht. Fanny erfährt entsetzt, dass Kilian und Larissa Bichlheim verlassen wollen. Leo macht Elias klar, dass er nicht an Fußball erinnert werden will.(n)</desc>
     <credits>
-      <director>Stefan Jonas</director>
-      <director>Carsten Meyer-Grohbrügge</director>
+      <director>Udo Müller</director>
+      <director>Alexander Wiedl</director>
       <actor>Philip Birnstiel</actor>
       <actor>Sepp Schauer</actor>
       <actor>Dieter Bach</actor>
       <actor>Orlando Lenzen</actor>
+      <actor>Sven Waasner</actor>
       <actor>Johanna Graen</actor>
+      <actor>Thimo Meitner</actor>
+      <actor>Antje Hagen</actor>
+      <actor>Isabell Stern</actor>
       <actor>Anthony Mrosek</actor>
-      <actor>Anna Karolin Berger</actor>
-      <actor>Aurel Klug</actor>
-      <actor>Frederik Bott</actor>
-      <actor>Soraya Bouabsa</actor>
-      <writer>Klaus Tegtmeyer</writer>
-      <writer>Michael Heilmeyer</writer>
+      <writer>Bodo Grossmann</writer>
+      <writer>Barbara Siller</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e14de3e7f5744b7e861fff79aa66a7ad_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/be79dbf76b02459f8b6a4ebc860b59b3_thumb.jpg" />
   </programme>
-  <programme start="20260527160000 +0200" stop="20260527161000 +0200" channel="Das Erste HD">
+  <programme start="20260610160000 +0200" stop="20260610161000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260527161000 +0200" stop="20260527170000 +0200" channel="Das Erste HD">
+  <programme start="20260610161000 +0200" stop="20260610170000 +0200" channel="Das Erste HD">
     <title lang="hr">Elefant, Tiger &amp; Co</title>
-    <desc lang="hr">Glitschiger Tapetenwechsel. Die Tiere im Zoo Leipzig müssen versorgt und beschäftigt werden. Löwenin Kigali muss sich etwas bemühen, um an ein Pferdebein zu gelangen.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4b4fcb9b02d04f1bbe04b2d160aacde4_thumb.jpg" />
+    <desc lang="hr">Suhle in der Kuhle. Suhle in der Kuhle Geschichten aus dem Leipziger Zoo.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d7f6f6043a04444c8a18a350d1b8dc2b_thumb.jpg" />
   </programme>
-  <programme start="20260527170000 +0200" stop="20260527171500 +0200" channel="Das Erste HD">
+  <programme start="20260610170000 +0200" stop="20260610171500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260527171500 +0200" stop="20260527180000 +0200" channel="Das Erste HD">
+  <programme start="20260610171500 +0200" stop="20260610180000 +0200" channel="Das Erste HD">
     <title lang="hr">Brisant</title>
     <desc lang="hr">Das Infotainment-Magazin der ARD im Ersten wird in zahlreichen Dritten Programmen wiederholt. Auch im SR Fernsehen von Montag bis Donnerstag, jeweils ab 18.15 Uhr.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/20607aed932f40fc823bad9b1639de33_thumb.jpg" />
   </programme>
-  <programme start="20260527180000 +0200" stop="20260527185000 +0200" channel="Das Erste HD">
+  <programme start="20260610180000 +0200" stop="20260610185000 +0200" channel="Das Erste HD">
     <title lang="hr">Gefragt – Gejagt</title>
     <desc lang="hr">Kandidatinnen und Kandidaten treten gegen ein Superhirn – eine "Jägerin" oder einen "Jäger" – an. Keine leichte Aufgabe, denn diese sind ausgewiesene Quiz-Champions!(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/45ec4e37cbec43c2be812609e100c945_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8f597bbefdc54c398ff91e8651fb48df_thumb.jpg" />
   </programme>
-  <programme start="20260527185000 +0200" stop="20260527194500 +0200" channel="Das Erste HD">
+  <programme start="20260610185000 +0200" stop="20260610194500 +0200" channel="Das Erste HD">
     <title lang="hr">Watzmann Ermittelt</title>
-    <desc lang="hr">Unter Falken. Kommissar Beissl muss den Mord an Tierarzt Dr. Leitner aufklären. Das Opfer wurde erschlagen und lag im Greifvogelgehege seines Bruders Jakob.(n)</desc>
+    <desc lang="hr">Wettersturz. Bergführer Lucky wird während einer Canyoning-Tour erschlagen. Jerry, der sich unter den Teilnehmern der Tour befindet, sitzt mit den Verdächtigen wetterbedingt in einer Berghütte fest.(n)</desc>
     <credits>
-      <director>Julia Peters</director>
+      <director>Dennis Satin</director>
       <actor>Andreas Giebel</actor>
       <actor>Peter M. Marton</actor>
       <actor>Katharina Leonore Goebel</actor>
       <actor>Barbara Weinzierl</actor>
-      <actor>Ines Lutz</actor>
+      <actor>Eilin Aliza</actor>
+      <actor>Vanessa Eckart</actor>
       <actor>Nepo Fitz</actor>
       <actor>Sarah Thonig</actor>
-      <actor>Alena von Aufschnaiter</actor>
-      <actor>Julian Bayer</actor>
-      <actor>Laila Khaddour</actor>
-      <writer>Antje Bähr</writer>
+      <actor>Jakob Graf</actor>
+      <actor>Bernadette Schnabl</actor>
+      <writer>Jochen Greve</writer>
+      <writer>Martin Walch</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/25b706a1432f4eb9ac65d3a4507b591e_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/25729299e6e54a3185c682cced1414a7_thumb.jpg" />
   </programme>
-  <programme start="20260527194500 +0200" stop="20260527194800 +0200" channel="Das Erste HD">
-    <title lang="hr">Dialog Vor Acht</title>
-    <desc lang="hr">Die eigene Meinung mit anderen Augen sehen: In insgesamt 13 Episoden widmet sich "Dialog vor acht" jeweils einem thematischen Schwerpunkt zur ARD-Dialog-Aktion – für mehr Dialog auf Augenhöhe und...(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f05ab05cd3a1458ea77df1e421439c62_thumb.jpg" />
-  </programme>
-  <programme start="20260527194800 +0200" stop="20260527195000 +0200" channel="Das Erste HD">
+  <programme start="20260610194500 +0200" stop="20260610195000 +0200" channel="Das Erste HD">
     <title lang="hr">Sportschau Vor Acht</title>
     <desc lang="hr">Neues von der Nationalmannschaft. Ab dem 26. Mai und damit rund zwei Wochen vor Beginn der Fußball-Weltmeisterschaft in Kanada, Mexiko und den USA berichtet "Sportschau vor acht" in 14 Folgen von der deutschen...(n)</desc>
   </programme>
-  <programme start="20260527195000 +0200" stop="20260527195500 +0200" channel="Das Erste HD">
+  <programme start="20260610195000 +0200" stop="20260610195500 +0200" channel="Das Erste HD">
     <title lang="hr">Wetter Vor Acht</title>
     <desc lang="hr">Sonne, Regen, Schnee oder bewölkt? Wie wird das Wetter? Diese Sendung präsentiert auf einer Wetterkarte das aktuelle Wetter und die Aussichten auf die kommende Nacht und die folgenden Tage.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e7bf1c873a2b47d799f0556bad3a04c6_thumb.jpg" />
   </programme>
-  <programme start="20260527195500 +0200" stop="20260527200000 +0200" channel="Das Erste HD">
+  <programme start="20260610195500 +0200" stop="20260610200000 +0200" channel="Das Erste HD">
     <title lang="hr">Wirtschaft Vor Acht</title>
     <desc lang="hr">Die Sendung präsentiert Ereignisse aus der Wirtschaftswelt und Aktuelles von der Frankfurter Börse. Ein Moderatorenteam erklärt Nachrichten der Wirtschaft, neue Trends und komplexe Zusammenhänge.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7edd52e3f657498ca41b4d0e9772c44b_thumb.jpg" />
   </programme>
-  <programme start="20260527200000 +0200" stop="20260527201500 +0200" channel="Das Erste HD">
+  <programme start="20260610200000 +0200" stop="20260610201500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260527201500 +0200" stop="20260527214500 +0200" channel="Das Erste HD">
-    <title lang="hr">Zero</title>
-    <desc lang="hr">Berlin in naher Zukunft: Journalistin Cynthia Bonsant soll zur anonymen Netzaktivistengruppe ZERO recherchieren, laut Verfassungsschutz eine terroristische Organisation.(n)</desc>
-    <credits>
-      <director>Jochen Alexander Freydank</director>
-      <actor>Heike Makatsch</actor>
-      <actor>Sabin Tambrea</actor>
-      <actor>Axel Stein</actor>
-      <actor>Matthias Weidenhöfer</actor>
-      <actor>Luise Emilie Tschersich</actor>
-      <actor>Pit Bukowski</actor>
-      <actor>Meriel Hinsching</actor>
-      <actor>Fabian Passamonte</actor>
-      <actor>Adrian Grünewald</actor>
-      <actor>Doguhan Kabadayi</actor>
-      <writer>Johannes W. Betz</writer>
-    </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/24bca3eb2ae742358d3bdef51973e8f6_thumb.jpg" />
+  <programme start="20260610201500 +0200" stop="20260610213000 +0200" channel="Das Erste HD">
+    <title lang="hr">Wm Wahnsinn Und Titel Träume: Deutschland Bei Der Mega Wm</title>
+    <desc lang="hr">WM-Wahnsinn und Titel-Träume: Deutschland bei der Mega-WM. Esther Sedlaczek und Thomas Hitzlsperger reisen durch die WM‑Gastgeberländer, sprechen mit Stars und Fans und beleuchten Begeisterung und Kritik.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b81537e2038d4d7ba0e76dcaf2ea4218_thumb.jpg" />
   </programme>
-  <programme start="20260527214500 +0200" stop="20260527221500 +0200" channel="Das Erste HD">
+  <programme start="20260610213000 +0200" stop="20260610221500 +0200" channel="Das Erste HD">
     <title lang="hr">Plusminus</title>
-    <desc lang="hr">Was bringt der Boom im Inlandstourismus? Alleine im März 2026 stieg die Zahl der gebuchten Übernachtungen bundesweit um 3,1 Prozent im Vergleich zum Vorjahr an.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/317a75ea57cb442ba421e9191bcf7088_thumb.jpg" />
+    <desc lang="hr">Die Sendung vermittelt Hintergründe, deckt Missstände auf und bringt eine Vielzahl ganz konkreter Verbrauchertipps.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/80813da0bbec4cfd94e90318b6e6f2f5_thumb.jpg" />
   </programme>
-  <programme start="20260527221500 +0200" stop="20260527225000 +0200" channel="Das Erste HD">
+  <programme start="20260610221500 +0200" stop="20260610225000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesthemen</title>
     <desc lang="hr">Mit Wetter. Die Tagesthemen vermitteln ergänzende Informationen zu den tagesaktuellen Ereignissen und zeigen Zusammenhänge und Hintergründe.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1ad500ada5b34a23aa725b744049014e_thumb.jpg" />
   </programme>
-  <programme start="20260527225000 +0200" stop="20260527233500 +0200" channel="Das Erste HD">
-    <title lang="hr">Die Russland Route – Wie Deutsche Waren Den Weg In Putins Russland Finden</title>
-    <desc lang="hr">Die Russland-Route – Wie deutsche Waren den Weg in Putins Russland finden. Ein packender Film über geheime Handelswege zwischen Deutschland und Russland, mitten im Krieg. Deutschland steht offiziell fest an der Seite der Ukraine.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0c567e21f08a457dbd2bf6910fc20fb3_thumb.jpg" />
+  <programme start="20260610225000 +0200" stop="20260611000500 +0200" channel="Das Erste HD">
+    <title lang="hr">Maischberger</title>
+    <desc lang="hr">Erstsendung 10.06.2026 Moderation: Sandra Maischberger Talkshow Erstsendung 10.06.2026.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0ec4a22ea6144aa080d97bcb90e7d748_thumb.jpg" />
   </programme>
-  <programme start="20260527233500 +0200" stop="20260528000500 +0200" channel="Das Erste HD">
-    <title lang="hr">Pastorin Mit Schwerer Vergangenheit</title>
-    <desc lang="hr">Rebecca Assif ist Pastorin in Hamburg-Wilhelmsburg. Sie predigt, tauft und versucht, einen Ort zu schaffen für Menschen, die sonst wenig Berührung mit der Kirche haben.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/309d82dcebd64cf2aa3029386e4e1859_thumb.jpg" />
-  </programme>
-  <programme start="20260528000500 +0200" stop="20260528001500 +0200" channel="Das Erste HD">
+  <programme start="20260611000500 +0200" stop="20260611001500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260528001500 +0200" stop="20260528014800 +0200" channel="Das Erste HD">
-    <title lang="hr">Zero</title>
-    <desc lang="hr">Berlin in naher Zukunft: Journalistin Cynthia Bonsant soll zur anonymen Netzaktivistengruppe ZERO recherchieren, laut Verfassungsschutz eine terroristische Organisation.(n)</desc>
+  <programme start="20260611001500 +0200" stop="20260611014800 +0200" channel="Das Erste HD">
+    <title lang="hr">Für Eine Nacht ... Und Immer</title>
+    <desc lang="hr">Für eine Nacht ... und immer?. Auf einer Geschäftsreise lernt Eva den 21 Jahre jüngeren Tom kennen. Sie lässt sich auf eine Affäre mit ihm ein. Während für Tom der Altersunterschied kein Thema ist, bleiben Eva Zweifel.(n)</desc>
     <credits>
-      <director>Jochen Alexander Freydank</director>
-      <actor>Heike Makatsch</actor>
-      <actor>Sabin Tambrea</actor>
-      <actor>Axel Stein</actor>
-      <actor>Matthias Weidenhöfer</actor>
-      <actor>Luise Emilie Tschersich</actor>
-      <actor>Pit Bukowski</actor>
-      <actor>Meriel Hinsching</actor>
-      <actor>Fabian Passamonte</actor>
-      <actor>Adrian Grünewald</actor>
-      <actor>Doguhan Kabadayi</actor>
-      <writer>Johannes W. Betz</writer>
+      <director>Sibylle Tafel</director>
+      <actor>Juliane Köhler</actor>
+      <actor>Marc Benjamin</actor>
+      <actor>Dominic Raacke</actor>
+      <actor>Alice Dwyer</actor>
+      <actor>Johannes Zirner</actor>
+      <actor>Anastasia Papadopoulou</actor>
+      <actor>Claudia Messner</actor>
+      <actor>Max Herbrechter</actor>
+      <actor>Amanda Da Gloria</actor>
+      <actor>Kathrin Waligura</actor>
+      <writer>Brigitte Blobel</writer>
+      <writer>Robert Krause</writer>
+      <writer>Sibylle Tafel</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/24bca3eb2ae742358d3bdef51973e8f6_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8a63b59e579d418ca7ef170906b7cc4d_thumb.jpg" />
   </programme>
-  <programme start="20260528014800 +0200" stop="20260528015000 +0200" channel="Das Erste HD">
+  <programme start="20260611014800 +0200" stop="20260611015000 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260528015000 +0200" stop="20260528032000 +0200" channel="Das Erste HD">
-    <title lang="hr">Die Letzten Millionen</title>
-    <desc lang="hr">Erfolgsregisseur Udo Witte inszenierte die Geschichte mit hintersinnigem Witz, Gespür für komplexe Charakterzeichnungen und einer gekonnten Balance aus Humor und Tragik.(n)</desc>
+  <programme start="20260611015000 +0200" stop="20260611032000 +0200" channel="Das Erste HD">
+    <title lang="hr">Liebe Im Halteverbot</title>
+    <desc lang="hr">Eine private Liebesreise mit dem Dienstwagen stürzt Bauamtsleiter Otto Schlegel in Verwicklungen privater und dienstlicher Art.(n)</desc>
     <credits>
-      <director>Udo Witte</director>
-      <actor>Michael Gwisdek</actor>
-      <actor>Anna Loos</actor>
-      <actor>Ursula Karusseit</actor>
-      <actor>Jutta Wachowiak</actor>
-      <actor>Dieter Mann</actor>
-      <actor>Ulrich Pleitgen</actor>
-      <actor>Joachim Bliese</actor>
-      <actor>Marie Gruber</actor>
-      <actor>Judy Winter</actor>
-      <actor>Dagmar Leesch</actor>
-      <writer>Lo Malinke</writer>
-      <writer>Philipp Müller</writer>
+      <director>Matthias Tiefenbacher</director>
+      <actor>Christoph M. Ohrt</actor>
+      <actor>Floriane Daniel</actor>
+      <actor>Oliver Mommsen</actor>
+      <actor>Oliver Breite</actor>
+      <actor>Peter Sattmann</actor>
+      <actor>Michael Hanemann</actor>
+      <actor>Kirsten Block</actor>
+      <actor>Eva-Maria Hagen</actor>
+      <actor>Friedrich-Karl Praetorius</actor>
+      <actor>Lutz Herkenrath</actor>
+      <writer>Martina Mouchot</writer>
+      <writer>Andreas Föhr</writer>
+      <writer>Thomas Letocha</writer>
     </credits>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b04bd48070b54225a4a88e683d8f3811_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c0e35fc871ae4c40b0b3e852f15e201d_thumb.jpg" />
   </programme>
-  <programme start="20260528032000 +0200" stop="20260528040500 +0200" channel="Das Erste HD">
-    <title lang="hr">Die Russland Route – Wie Deutsche Waren Den Weg In Putins Russland Finden</title>
-    <desc lang="hr">Die Russland-Route – Wie deutsche Waren den Weg in Putins Russland finden. Ein packender Film über geheime Handelswege zwischen Deutschland und Russland, mitten im Krieg. Deutschland steht offiziell fest an der Seite der Ukraine.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0c567e21f08a457dbd2bf6910fc20fb3_thumb.jpg" />
+  <programme start="20260611032000 +0200" stop="20260611043500 +0200" channel="Das Erste HD">
+    <title lang="hr">Maischberger</title>
+    <desc lang="hr">Erstsendung 10.06.2026 Moderation: Sandra Maischberger Talkshow Erstsendung 10.06.2026.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0ec4a22ea6144aa080d97bcb90e7d748_thumb.jpg" />
   </programme>
-  <programme start="20260528040500 +0200" stop="20260528043500 +0200" channel="Das Erste HD">
-    <title lang="hr">Pastorin Mit Schwerer Vergangenheit</title>
-    <desc lang="hr">Rebecca Assif ist Pastorin in Hamburg-Wilhelmsburg. Sie predigt, tauft und versucht, einen Ort zu schaffen für Menschen, die sonst wenig Berührung mit der Kirche haben.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/309d82dcebd64cf2aa3029386e4e1859_thumb.jpg" />
+  <programme start="20260611043500 +0200" stop="20260611044300 +0200" channel="Das Erste HD">
+    <title lang="hr">Deutschlandbilder</title>
+    <desc lang="hr">Deutsche Landschaften, Städte, Inseln: Begleiten Sie uns zu den schönsten Plätzen Deutschlands.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/286a4737b63245ad8335dba11f4b55e4_thumb.jpg" />
   </programme>
-  <programme start="20260528043500 +0200" stop="20260528045800 +0200" channel="Das Erste HD">
-    <title lang="hr">Brisant</title>
-    <desc lang="hr">Das Infotainment-Magazin der ARD im Ersten wird in zahlreichen Dritten Programmen wiederholt. Auch im SR Fernsehen von Montag bis Donnerstag, jeweils ab 18.15 Uhr.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/20607aed932f40fc823bad9b1639de33_thumb.jpg" />
-  </programme>
-  <programme start="20260528045800 +0200" stop="20260528050000 +0200" channel="Das Erste HD">
+  <programme start="20260611044300 +0200" stop="20260611044500 +0200" channel="Das Erste HD">
     <title lang="hr">Tagesschau</title>
     <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
   </programme>
-  <programme start="20260528050000 +0200" stop="20260528053000 +0200" channel="Das Erste HD">
+  <programme start="20260611044500 +0200" stop="20260611053000 +0200" channel="Das Erste HD">
     <title lang="hr">Plusminus</title>
-    <desc lang="hr">* Was bringt der Boom im Inlandstourismus? Alleine im März 2026 stieg die Zahl der gebuchten Übernachtungen bundesweit um 3,1 Prozent im Vergleich zum Vorjahr an.(n)</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/317a75ea57cb442ba421e9191bcf7088_thumb.jpg" />
+    <desc lang="hr">Die Sendung vermittelt Hintergründe, deckt Missstände auf und bringt eine Vielzahl ganz konkreter Verbrauchertipps.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/80813da0bbec4cfd94e90318b6e6f2f5_thumb.jpg" />
   </programme>
-  <programme start="20260528053000 +0200" stop="20260528090000 +0200" channel="Das Erste HD">
+  <programme start="20260611053000 +0200" stop="20260611090000 +0200" channel="Das Erste HD">
     <title lang="hr">Zdf Morgenmagazin</title>
     <desc lang="hr">ZDF-Morgenmagazin. Das "ZDF-Morgenmagazin" – der Blick in den Tag mit aktuellen, hintergründigen Berichten und Gesprächen aus Politik, Wirtschaft, Sport und Kultur. Live aus dem ZDF-Hauptstadtstudio.(n)</desc>
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/dfb6ae898a6d4b438f3ef3ea98a2a9fd_thumb.jpg" />
   </programme>
-  <programme start="20260524020000 +0000" stop="20260524040000 +0000" channel="GB News">
+  <programme start="20260611090000 +0200" stop="20260611090500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260611090500 +0200" stop="20260611095500 +0200" channel="Das Erste HD">
+    <title lang="hr">Hubert Und Staller</title>
+    <desc lang="hr">Amors tödlicher Pfeil. Als Hubert und Staller einem Fall von illegaler Müllentsorgung nachgehen, stoßen sie auf eine Leiche.(n)</desc>
+    <credits>
+      <director>Sebastian Sorger</director>
+      <actor>Christian Tramitz</actor>
+      <actor>Helmfried von Lüttichau</actor>
+      <actor>Michael Brandner</actor>
+      <actor>Annett Fleischer</actor>
+      <actor>Paul Sedlmeir</actor>
+      <actor>Karin Thaler</actor>
+      <actor>Carin C. Tietze</actor>
+      <actor>Hannes Ringlstetter</actor>
+      <actor>Viola von der Burg</actor>
+      <actor>Karoline Fritz</actor>
+      <writer>Michael Pohl</writer>
+      <writer>Paul Milbers</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cbd5a63148d34107a7e24e8cfbe6aaf6_thumb.jpg" />
+  </programme>
+  <programme start="20260611095500 +0200" stop="20260611104000 +0200" channel="Das Erste HD">
+    <title lang="hr">Großstadtrevier</title>
+    <desc lang="hr">Die letzte Reise. Ungewöhnlicher Einsatz für Harry und Nils: Sie sollen eine Leiche finden, die urplötzlich vom Tisch des Bestatters verschwunden ist.(n)</desc>
+    <credits>
+      <director>Florian Gottschick</director>
+      <actor>Saskia Fischer</actor>
+      <actor>Maria Ketikidou</actor>
+      <actor>Wanda Perdelwitz</actor>
+      <actor>Patrick Abozen</actor>
+      <actor>Sven Fricke</actor>
+      <actor>Enrique Fiß</actor>
+      <actor>Torsten Lennie Münchow</actor>
+      <actor>Elga Schütz</actor>
+      <actor>Jasper Vogt</actor>
+      <actor>Sara Adina Scheer</actor>
+      <writer>Andreas Kaufmann</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/930f6592503c4f5eab9ca67ed89283cb_thumb.jpg" />
+  </programme>
+  <programme start="20260611104000 +0200" stop="20260611104500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260611104500 +0200" stop="20260611111500 +0200" channel="Das Erste HD">
+    <title lang="hr">Meister Des Alltags</title>
+    <desc lang="hr">Moderator Florian Weber stellt die Alltagstauglichkeit seiner prominenten Kandidaten auf die Probe.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c1712577d7444952a07907097f9a74a6_thumb.jpg" />
+  </programme>
+  <programme start="20260611111500 +0200" stop="20260611120000 +0200" channel="Das Erste HD">
+    <title lang="hr">Gefragt – Gejagt</title>
+    <desc lang="hr">In dieser Quizshow tritt ein Team von vier Kandidatinnen und Kandidaten gegen ein Superhirn an. Das ist keine leichte Aufgabe für sie, denn die Jägerinnen und die Jäger sind ausgewiesene Quizprofis.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/303cf7cabcdb4860ad140fb5d9a0df39_thumb.jpg" />
+  </programme>
+  <programme start="20260611120000 +0200" stop="20260611140000 +0200" channel="Das Erste HD">
+    <title lang="hr">Ard Mittagsmagazin</title>
+    <desc lang="hr">Mit Tagesschau. Nachrichten aus aller Welt, Neues aus Politik, Wirtschaft, Börse, Sport, Kultur und Service.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/11296b5447d846afbdfed21398558c77_thumb.jpg" />
+  </programme>
+  <programme start="20260611140000 +0200" stop="20260611141000 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260611141000 +0200" stop="20260611150000 +0200" channel="Das Erste HD">
+    <title lang="hr">Rote Rosen</title>
+    <desc lang="hr">Richard und Julius täuschen eine Liebesbeziehung vor, um Victoria zu beschwichtigen.(n)</desc>
+    <credits>
+      <director>Jackie Baier</director>
+      <actor>Eva-Maria Grein von Friedl</actor>
+      <actor>Juana Nagel</actor>
+      <actor>Daniel Fritz</actor>
+      <actor>Florian Odendahl</actor>
+      <actor>Caroline Schreiber</actor>
+      <actor>Patrick Schlegel</actor>
+      <actor>Jan Stapelfeldt</actor>
+      <actor>Martina Eitner-Acheampong</actor>
+      <actor>Hermann Toelcke</actor>
+      <actor>Maria Fuchs</actor>
+      <writer>Ben Zwanzig</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/757b6e64c02a43889f493776f26d70c0_thumb.jpg" />
+  </programme>
+  <programme start="20260611150000 +0200" stop="20260611151000 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260611151000 +0200" stop="20260611160000 +0200" channel="Das Erste HD">
+    <title lang="hr">Sturm Der Liebe</title>
+    <desc lang="hr">Fannys letzter Kuss lässt Kilian aus der Hypnose erwachen. Christoph weiß nicht, ob er Sophia glauben kann. Erik will doch nicht ausziehen.(n)</desc>
+    <credits>
+      <director>Udo Müller</director>
+      <director>Alexander Wiedl</director>
+      <actor>Philip Birnstiel</actor>
+      <actor>Sepp Schauer</actor>
+      <actor>Dieter Bach</actor>
+      <actor>Sven Waasner</actor>
+      <actor>Johanna Graen</actor>
+      <actor>Thimo Meitner</actor>
+      <actor>Antje Hagen</actor>
+      <actor>Isabell Stern</actor>
+      <actor>Anthony Mrosek</actor>
+      <actor>Yeliz Simsek</actor>
+      <writer>Martina Lis</writer>
+      <writer>Barbara Siller</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/541b958273054db7a48244930084587d_thumb.jpg" />
+  </programme>
+  <programme start="20260611160000 +0200" stop="20260611161000 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260611161000 +0200" stop="20260611170000 +0200" channel="Das Erste HD">
+    <title lang="hr">Elefant, Tiger &amp; Co</title>
+    <desc lang="hr">Shietwetter!. Frühjahrsputz bei den Flamingos Die Brutsaison der Flamingos beginnt normalerweise erst im Mai. Aber das Aprilwetter ist unbeständig. Mal Regen, mal Sonne satt.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4b4fcb9b02d04f1bbe04b2d160aacde4_thumb.jpg" />
+  </programme>
+  <programme start="20260611170000 +0200" stop="20260611171500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260611171500 +0200" stop="20260611180000 +0200" channel="Das Erste HD">
+    <title lang="hr">Brisant</title>
+    <desc lang="hr">Das Infotainment-Magazin der ARD im Ersten wird in zahlreichen Dritten Programmen wiederholt. Auch im SR Fernsehen von Montag bis Donnerstag, jeweils ab 18.15 Uhr.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/20607aed932f40fc823bad9b1639de33_thumb.jpg" />
+  </programme>
+  <programme start="20260611180000 +0200" stop="20260611185000 +0200" channel="Das Erste HD">
+    <title lang="hr">Gefragt – Gejagt</title>
+    <desc lang="hr">Kandidatinnen und Kandidaten treten gegen ein Superhirn – eine "Jägerin" oder einen "Jäger" – an. Keine leichte Aufgabe, denn diese sind ausgewiesene Quiz-Champions!(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f7a0237159734d92bc8eea646e7ce8d3_thumb.jpg" />
+  </programme>
+  <programme start="20260611185000 +0200" stop="20260611194500 +0200" channel="Das Erste HD">
+    <title lang="hr">In Aller Freundschaft – Die Jungen Ärzte</title>
+    <desc lang="hr">Passion. Sofia erhält nach der Behandlung eines Patienten ein überraschendes Jobangebot. Hannah Berger erlebt familiäre Konflikte, während Ivo sie unterstützt.(n)</desc>
+    <credits>
+      <director>Daniel Anderson</director>
+      <actor>Sanam Afrashteh</actor>
+      <actor>Mike Adler</actor>
+      <actor>Philipp Danne</actor>
+      <actor>Luan Gummich</actor>
+      <actor>Mirka Pigulla</actor>
+      <actor>Arne Kertész</actor>
+      <actor>Linda Kummer</actor>
+      <actor>Horst-Günter Marx</actor>
+      <actor>Marijam Agischewa</actor>
+      <actor>Christian Beermann</actor>
+      <writer>Sophie Luise Bauer</writer>
+      <writer>Georg Malcovati</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0e9bbf7bd01840b2a27fb10d30c7e427_thumb.jpg" />
+  </programme>
+  <programme start="20260611194500 +0200" stop="20260611195000 +0200" channel="Das Erste HD">
+    <title lang="hr">Sportschau Vor Acht</title>
+    <desc lang="hr">Neues von der Nationalmannschaft. Ab dem 26. Mai und damit rund zwei Wochen vor Beginn der Fußball-Weltmeisterschaft in Kanada, Mexiko und den USA berichtet "Sportschau vor acht" in 14 Folgen von der deutschen...(n)</desc>
+  </programme>
+  <programme start="20260611195000 +0200" stop="20260611195500 +0200" channel="Das Erste HD">
+    <title lang="hr">Wetter Vor Acht</title>
+    <desc lang="hr">Sonne, Regen, Schnee oder bewölkt? Wie wird das Wetter? Diese Sendung präsentiert auf einer Wetterkarte das aktuelle Wetter und die Aussichten auf die kommende Nacht und die folgenden Tage.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e7bf1c873a2b47d799f0556bad3a04c6_thumb.jpg" />
+  </programme>
+  <programme start="20260611195500 +0200" stop="20260611200000 +0200" channel="Das Erste HD">
+    <title lang="hr">Wirtschaft Vor Acht</title>
+    <desc lang="hr">Die Sendung präsentiert Ereignisse aus der Wirtschaftswelt und Aktuelles von der Frankfurter Börse. Ein Moderatorenteam erklärt Nachrichten der Wirtschaft, neue Trends und komplexe Zusammenhänge.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7edd52e3f657498ca41b4d0e9772c44b_thumb.jpg" />
+  </programme>
+  <programme start="20260611200000 +0200" stop="20260611201500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260611201500 +0200" stop="20260611214500 +0200" channel="Das Erste HD">
+    <title lang="hr">Der Wien Krimi: Blind Ermittelt</title>
+    <desc lang="hr">Tod im Weinberg. Ein junger Mann wurde entführt. Dass seine Mutter wie gefordert die Polizei heraushalten will, bringt die Sonderermittler Haller und Niko ins Spiel.(n)</desc>
+    <credits>
+      <director>Till Franzen</director>
+      <actor>Philipp Hochmair</actor>
+      <actor>Andreas Guenther</actor>
+      <actor>Jaschka Lämmert</actor>
+      <actor>Michael Edlinger</actor>
+      <actor>Nina Kronjäger</actor>
+      <actor>Fritz Karl</actor>
+      <actor>Xaver Hutter</actor>
+      <actor>Martin Leutgeb</actor>
+      <actor>Julian Waldner</actor>
+      <actor>Lisa-Lena Tritscher</actor>
+      <writer>Nora Friedel</writer>
+      <writer>Mike Majzen</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0e6da7f18e134922aff0e48695b4cec0_thumb.jpg" />
+  </programme>
+  <programme start="20260611214500 +0200" stop="20260611231500 +0200" channel="Das Erste HD">
+    <title lang="hr">Harter Brocken: Der Geheimcode</title>
+    <desc lang="hr">Vor den Augen des Polizisten Frank und seines Kumpels kommt ein Auto von der Straße ab. Der Fahrer steckt Frank einen Umschlag zu. Was wie ein Unglück aussah, entwickelt sich zu einem Mordfall.(n)</desc>
+    <credits>
+      <director>Markus Sehr</director>
+      <actor>Aljoscha Stadelmann</actor>
+      <actor>Moritz Führmann</actor>
+      <actor>Anna Fischer</actor>
+      <actor>Sibylle Canonica</actor>
+      <actor>Franziska Weisz</actor>
+      <actor>Holger Handtke</actor>
+      <actor>Maike Jüttendonk</actor>
+      <actor>Kailas Mahadevan</actor>
+      <actor>Andreas Leupold</actor>
+      <actor>Holger Bülow</actor>
+      <writer>Holger Karsten Schmidt</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/76ff8c4b93054c84956dc54bb099151c_thumb.jpg" />
+  </programme>
+  <programme start="20260611231500 +0200" stop="20260611233500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesthemen</title>
+    <desc lang="hr">Mit Wetter. Die Tagesthemen vermitteln ergänzende Informationen zu den tagesaktuellen Ereignissen und zeigen Zusammenhänge und Hintergründe.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1ad500ada5b34a23aa725b744049014e_thumb.jpg" />
+  </programme>
+  <programme start="20260611233500 +0200" stop="20260612002000 +0200" channel="Das Erste HD">
+    <title lang="hr">Extra 3</title>
+    <desc lang="hr">Provinzpossen, Amtsschimmel und Behördenwahnsinn – in diesen Spezialausgaben widmet sich extra 3 dem vermeintlich kleinen Irrsinn in unserem Land: Realsatiren aus dem Alltag.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/45eaaafc7c89467ba8c1f10ec9245f7b_thumb.jpg" />
+  </programme>
+  <programme start="20260612002000 +0200" stop="20260612015300 +0200" channel="Das Erste HD">
+    <title lang="hr">Kommissar Dupin</title>
+    <desc lang="hr">Bretonische Verhältnisse. Im malerischen Küstenort Pont-Aven wurde der 91-jährige Hotelier und Kunstliebhaber Pierre-Louis Pennec ermordet. Das ist der erste Fall des strafversetzten Kommissars Dupin in der Bretagne.(n)</desc>
+    <credits>
+      <director>Matthias Tiefenbacher</director>
+      <actor>Pasquale Aleardi</actor>
+      <actor>Jan Georg Schütte</actor>
+      <actor>Annika Blendl</actor>
+      <actor>Ludwig Blochberger</actor>
+      <actor>Sibylle Canonica</actor>
+      <actor>Michael Prelle</actor>
+      <actor>Gudrun Ritter</actor>
+      <actor>Walter Kreye</actor>
+      <actor>Ulrike C. Tscharre</actor>
+      <actor>Ernst Stötzner</actor>
+      <writer>Martin Ess</writer>
+      <writer>Gernot Gricksch</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/1fe60ed53c834c29a66403d30f4ca3f0_thumb.jpg" />
+  </programme>
+  <programme start="20260612015300 +0200" stop="20260612015500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260612015500 +0200" stop="20260612032500 +0200" channel="Das Erste HD">
+    <title lang="hr">Der Wien Krimi: Blind Ermittelt</title>
+    <desc lang="hr">Tod im Weinberg. Ein junger Mann wurde entführt. Dass seine Mutter wie gefordert die Polizei heraushalten will, bringt die Sonderermittler Haller und Niko ins Spiel.(n)</desc>
+    <credits>
+      <director>Till Franzen</director>
+      <actor>Philipp Hochmair</actor>
+      <actor>Andreas Guenther</actor>
+      <actor>Jaschka Lämmert</actor>
+      <actor>Michael Edlinger</actor>
+      <actor>Nina Kronjäger</actor>
+      <actor>Fritz Karl</actor>
+      <actor>Xaver Hutter</actor>
+      <actor>Martin Leutgeb</actor>
+      <actor>Julian Waldner</actor>
+      <actor>Lisa-Lena Tritscher</actor>
+      <writer>Nora Friedel</writer>
+      <writer>Mike Majzen</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0e6da7f18e134922aff0e48695b4cec0_thumb.jpg" />
+  </programme>
+  <programme start="20260612032500 +0200" stop="20260612041500 +0200" channel="Das Erste HD">
+    <title lang="hr">Hubert Und Staller</title>
+    <desc lang="hr">Amors tödlicher Pfeil. Als Hubert und Staller einem Fall von illegaler Müllentsorgung nachgehen, stoßen sie auf eine Leiche.(n)</desc>
+    <credits>
+      <director>Sebastian Sorger</director>
+      <actor>Christian Tramitz</actor>
+      <actor>Helmfried von Lüttichau</actor>
+      <actor>Michael Brandner</actor>
+      <actor>Annett Fleischer</actor>
+      <actor>Paul Sedlmeir</actor>
+      <actor>Karin Thaler</actor>
+      <actor>Carin C. Tietze</actor>
+      <actor>Hannes Ringlstetter</actor>
+      <actor>Viola von der Burg</actor>
+      <actor>Karoline Fritz</actor>
+      <writer>Michael Pohl</writer>
+      <writer>Paul Milbers</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cbd5a63148d34107a7e24e8cfbe6aaf6_thumb.jpg" />
+  </programme>
+  <programme start="20260612041500 +0200" stop="20260612044300 +0200" channel="Das Erste HD">
+    <title lang="hr">Brisant</title>
+    <desc lang="hr">Das Infotainment-Magazin der ARD im Ersten wird in zahlreichen Dritten Programmen wiederholt. Auch im SR Fernsehen von Montag bis Donnerstag, jeweils ab 18.15 Uhr.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/20607aed932f40fc823bad9b1639de33_thumb.jpg" />
+  </programme>
+  <programme start="20260612044300 +0200" stop="20260612044500 +0200" channel="Das Erste HD">
+    <title lang="hr">Tagesschau</title>
+    <desc lang="hr">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3858102988e8447983e360b310e37483_thumb.jpg" />
+  </programme>
+  <programme start="20260612044500 +0200" stop="20260612053000 +0200" channel="Das Erste HD">
+    <title lang="hr">Großstadtrevier</title>
+    <desc lang="hr">Die letzte Reise. Ungewöhnlicher Einsatz für Harry und Nils: Sie sollen eine Leiche finden, die urplötzlich vom Tisch des Bestatters verschwunden ist.(n)</desc>
+    <credits>
+      <director>Florian Gottschick</director>
+      <actor>Saskia Fischer</actor>
+      <actor>Maria Ketikidou</actor>
+      <actor>Wanda Perdelwitz</actor>
+      <actor>Patrick Abozen</actor>
+      <actor>Sven Fricke</actor>
+      <actor>Enrique Fiß</actor>
+      <actor>Torsten Lennie Münchow</actor>
+      <actor>Elga Schütz</actor>
+      <actor>Jasper Vogt</actor>
+      <actor>Sara Adina Scheer</actor>
+      <writer>Andreas Kaufmann</writer>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/930f6592503c4f5eab9ca67ed89283cb_thumb.jpg" />
+  </programme>
+  <programme start="20260612053000 +0200" stop="20260612090000 +0200" channel="Das Erste HD">
+    <title lang="hr">Zdf Morgenmagazin</title>
+    <desc lang="hr">ZDF-Morgenmagazin. Das "ZDF-Morgenmagazin" – der Blick in den Tag mit aktuellen, hintergründigen Berichten und Gesprächen aus Politik, Wirtschaft, Sport und Kultur. Live aus dem ZDF-Hauptstadtstudio.(n)</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/dfb6ae898a6d4b438f3ef3ea98a2a9fd_thumb.jpg" />
+  </programme>
+  <programme start="20260608020000 +0000" stop="20260608040000 +0000" channel="GB News">
     <title lang="en">Alex Armstrong Tonight</title>
     <desc lang="en">Join Alex for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Alex's fresh take on every story.(n)</desc>
   </programme>
-  <programme start="20260524040000 +0000" stop="20260524050000 +0000" channel="GB News">
+  <programme start="20260608040000 +0000" stop="20260608050000 +0000" channel="GB News">
     <title lang="en">Alex Armstrong Tonight Late Edition</title>
     <desc lang="en">Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Alex Armstrong.(n)</desc>
   </programme>
-  <programme start="20260524050000 +0000" stop="20260524083000 +0000" channel="GB News">
-    <title lang="en">Breakfast with Stephen and Anne</title>
-    <desc lang="en">It's Stephen and Anne here. Join us for the weekend breakfast show Britain is turning to. News from around our great country and the world is live here on GB News Breakfast.(n)</desc>
-  </programme>
-  <programme start="20260524083000 +0000" stop="20260524100000 +0000" channel="GB News">
-    <title lang="en">The Camilla Tominey Show</title>
-    <desc lang="en">Join Camilla Tominey for a Sunday morning politics show with personality, live from Westminster.(n)</desc>
-  </programme>
-  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="GB News">
-    <title lang="en">Sunday with Michael Portillo</title>
-    <desc lang="en">Join Michael Portillo and guests for a relaxed look at the world of politics, culture and the arts.(n)</desc>
-  </programme>
-  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="GB News">
-    <title lang="en">The Weekend</title>
-    <desc lang="en">A lively look at all the latest live and breaking news for the weekend from around the UK with our network of GB News reporters, plus views and debate from a wide range of perspectives.(n)</desc>
-  </programme>
-  <programme start="20260524140000 +0000" stop="20260524170000 +0000" channel="GB News">
-    <title lang="en">Nana Akua</title>
-    <desc lang="en">Join Nana Akua for a fun and feisty romp through the news. She'll be getting the inside scoop on the stories that matter to you and she'll be taking on the big debates of the day.(n)</desc>
-  </programme>
-  <programme start="20260524170000 +0000" stop="20260524180000 +0000" channel="GB News">
-    <title lang="en">The Camilla Tominey Show Highlights</title>
-    <desc lang="en">Highlights this morning. Join Camilla Tominey for a Sunday morning politics show with personality, live from Westminster.(n)</desc>
-  </programme>
-  <programme start="20260524180000 +0000" stop="20260524200000 +0000" channel="GB News">
-    <title lang="en">Free Speech Nation</title>
-    <desc lang="en">Where journalism and comedy meet - round up of the most infuriating stories of the moment, including a comedy take on the week.(n)</desc>
-  </programme>
-  <programme start="20260524200000 +0000" stop="20260524220000 +0000" channel="GB News">
-    <title lang="en">Alex Armstrong Tonight</title>
-    <desc lang="en">Join Alex for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Alex's fresh take on every story.(n)</desc>
-  </programme>
-  <programme start="20260524220000 +0000" stop="20260524230000 +0000" channel="GB News">
-    <title lang="en">Alex Armstrong Tonight Late Edition</title>
-    <desc lang="en">Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Alex Armstrong.(n)</desc>
-  </programme>
-  <programme start="20260524230000 +0000" stop="20260525020000 +0000" channel="GB News">
-    <title lang="en">The Late Show Live</title>
-    <desc lang="en">Live from Washington DC, Bev Turner and Ben Leo bring you the latest from the US and what it means for Britain.(n)</desc>
-  </programme>
-  <programme start="20260525020000 +0000" stop="20260525040000 +0000" channel="GB News">
-    <title lang="en">Alex Armstrong Tonight</title>
-    <desc lang="en">Join Alex for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Alex's fresh take on every story.(n)</desc>
-  </programme>
-  <programme start="20260525040000 +0000" stop="20260525050000 +0000" channel="GB News">
-    <title lang="en">Alex Armstrong Tonight Late Edition</title>
-    <desc lang="en">Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Alex Armstrong.(n)</desc>
-  </programme>
-  <programme start="20260525050000 +0000" stop="20260525083000 +0000" channel="GB News">
+  <programme start="20260608050000 +0000" stop="20260608083000 +0000" channel="GB News">
     <title lang="en">Breakfast with Eamonn and Ellie</title>
     <desc lang="en">Join Eamonn Holmes &amp; Ellie Costello to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.(n)</desc>
   </programme>
-  <programme start="20260525083000 +0000" stop="20260525110000 +0000" channel="GB News">
+  <programme start="20260608083000 +0000" stop="20260608110000 +0000" channel="GB News">
     <title lang="en">Britain's Newsroom</title>
     <desc lang="en">Andrew and Miriam present Monday to Thursday mornings. When the news happens, it happens here. GB News brings you the biggest stories and the answers you need from across the UK.(n)</desc>
   </programme>
-  <programme start="20260525110000 +0000" stop="20260525140000 +0000" channel="GB News">
+  <programme start="20260608110000 +0000" stop="20260608140000 +0000" channel="GB News">
     <title lang="en">Good Afternoon Britain</title>
     <desc lang="en">Tackling the big stories from all angles and perspectives. Weekdays from midday, Tom Harwood and Emily Carver bring you the most compelling stories from across the United Kingdom.(n)</desc>
   </programme>
-  <programme start="20260525140000 +0000" stop="20260525170000 +0000" channel="GB News">
+  <programme start="20260608140000 +0000" stop="20260608170000 +0000" channel="GB News">
     <title lang="en">Martin Daubney</title>
     <desc lang="en">Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.(n)</desc>
   </programme>
-  <programme start="20260525170000 +0000" stop="20260525180000 +0000" channel="GB News">
+  <programme start="20260608170000 +0000" stop="20260608180000 +0000" channel="GB News">
     <title lang="en">Dewbs &amp; Co</title>
     <desc lang="en">Plain-speaking, straight-talking - Michelle delivers her individual take on the day's news.(n)</desc>
   </programme>
-  <programme start="20260525180000 +0000" stop="20260525190000 +0000" channel="GB News">
+  <programme start="20260608180000 +0000" stop="20260608190000 +0000" channel="GB News">
     <title lang="en">Farage</title>
     <desc lang="en">Nigel Farage doesn't hold back in his GB News prime-time show. Hear his views and give your own in an hour of discussion and debate. Join Nigel as he takes on the big stories other media won't touch.(n)</desc>
   </programme>
-  <programme start="20260525190000 +0000" stop="20260525200000 +0000" channel="GB News">
+  <programme start="20260608190000 +0000" stop="20260608200000 +0000" channel="GB News">
     <title lang="en">Jacob Rees-Mogg's State Of The Nation</title>
     <desc lang="en">Join Jacob for his unique and unmissable take on the day's news.(n)</desc>
   </programme>
-  <programme start="20260525200000 +0000" stop="20260525220000 +0000" channel="GB News">
+  <programme start="20260608200000 +0000" stop="20260608220000 +0000" channel="GB News">
     <title lang="en">Patrick Christys Tonight</title>
     <desc lang="en">Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.(n)</desc>
   </programme>
-  <programme start="20260525220000 +0000" stop="20260525230000 +0000" channel="GB News">
+  <programme start="20260608220000 +0000" stop="20260608230000 +0000" channel="GB News">
     <title lang="en">Patrick Christys Tonight Late Edition</title>
     <desc lang="en">Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.(n)</desc>
   </programme>
-  <programme start="20260525230000 +0000" stop="20260526020000 +0000" channel="GB News">
+  <programme start="20260608230000 +0000" stop="20260609020000 +0000" channel="GB News">
     <title lang="en">The Late Show Live</title>
     <desc lang="en">Live from Washington DC, Bev Turner and Ben Leo bring you the latest from the US and what it means for Britain.(n)</desc>
   </programme>
-  <programme start="20260526020000 +0000" stop="20260526040000 +0000" channel="GB News">
+  <programme start="20260609020000 +0000" stop="20260609040000 +0000" channel="GB News">
     <title lang="en">Patrick Christys Tonight</title>
     <desc lang="en">Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.(n)</desc>
   </programme>
-  <programme start="20260526040000 +0000" stop="20260526050000 +0000" channel="GB News">
+  <programme start="20260609040000 +0000" stop="20260609050000 +0000" channel="GB News">
     <title lang="en">Patrick Christys Tonight Late...</title>
     <desc lang="en">Edition. Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.(n)</desc>
   </programme>
-  <programme start="20260526050000 +0000" stop="20260526083000 +0000" channel="GB News">
+  <programme start="20260609050000 +0000" stop="20260609083000 +0000" channel="GB News">
     <title lang="en">Breakfast with Eamonn and Ellie</title>
     <desc lang="en">Join Eamonn Holmes &amp; Ellie Costello to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.(n)</desc>
   </programme>
-  <programme start="20260526083000 +0000" stop="20260526110000 +0000" channel="GB News">
+  <programme start="20260609083000 +0000" stop="20260609110000 +0000" channel="GB News">
     <title lang="en">Britain's Newsroom</title>
     <desc lang="en">Andrew and Miriam present Monday to Thursday mornings. When the news happens, it happens here. GB News brings you the biggest stories and the answers you need from across the UK.(n)</desc>
   </programme>
-  <programme start="20260526110000 +0000" stop="20260526140000 +0000" channel="GB News">
+  <programme start="20260609110000 +0000" stop="20260609140000 +0000" channel="GB News">
     <title lang="en">Good Afternoon Britain</title>
     <desc lang="en">Tackling the big stories from all angles and perspectives. Weekdays from midday, Tom Harwood and Emily Carver bring you the most compelling stories from across the United Kingdom.(n)</desc>
   </programme>
-  <programme start="20260526140000 +0000" stop="20260526170000 +0000" channel="GB News">
+  <programme start="20260609140000 +0000" stop="20260609170000 +0000" channel="GB News">
     <title lang="en">Martin Daubney</title>
     <desc lang="en">Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.(n)</desc>
   </programme>
-  <programme start="20260526170000 +0000" stop="20260526180000 +0000" channel="GB News">
+  <programme start="20260609170000 +0000" stop="20260609180000 +0000" channel="GB News">
     <title lang="en">Dewbs &amp; Co</title>
     <desc lang="en">Plain-speaking, straight-talking - Michelle delivers her individual take on the day's news.(n)</desc>
   </programme>
-  <programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="GB News">
+  <programme start="20260609180000 +0000" stop="20260609190000 +0000" channel="GB News">
     <title lang="en">Farage</title>
     <desc lang="en">Nigel Farage doesn't hold back in his GB News prime-time show. Hear his views and give your own in an hour of discussion and debate. Join Nigel as he takes on the big stories other media won't touch.(n)</desc>
   </programme>
-  <programme start="20260526190000 +0000" stop="20260526200000 +0000" channel="GB News">
+  <programme start="20260609190000 +0000" stop="20260609200000 +0000" channel="GB News">
     <title lang="en">Jacob Rees-Mogg's State Of The Nation</title>
     <desc lang="en">Join Jacob for his unique and unmissable take on the day's news.(n)</desc>
   </programme>
-  <programme start="20260526200000 +0000" stop="20260526220000 +0000" channel="GB News">
+  <programme start="20260609200000 +0000" stop="20260609220000 +0000" channel="GB News">
     <title lang="en">Patrick Christys Tonight</title>
     <desc lang="en">Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.(n)</desc>
   </programme>
-  <programme start="20260526220000 +0000" stop="20260526230000 +0000" channel="GB News">
+  <programme start="20260609220000 +0000" stop="20260609230000 +0000" channel="GB News">
     <title lang="en">Patrick Christys Tonight Late Edition</title>
     <desc lang="en">Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.(n)</desc>
   </programme>
-  <programme start="20260526230000 +0000" stop="20260527020000 +0000" channel="GB News">
+  <programme start="20260609230000 +0000" stop="20260610020000 +0000" channel="GB News">
     <title lang="en">The Late Show Live</title>
     <desc lang="en">Live from Washington DC, Bev Turner and Ben Leo bring you the latest from the US and what it means for Britain.(n)</desc>
   </programme>
-  <programme start="20260527020000 +0000" stop="20260527040000 +0000" channel="GB News">
+  <programme start="20260610020000 +0000" stop="20260610040000 +0000" channel="GB News">
     <title lang="en">Patrick Christys Tonight</title>
     <desc lang="en">Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.(n)</desc>
   </programme>
-  <programme start="20260527040000 +0000" stop="20260527050000 +0000" channel="GB News">
+  <programme start="20260610040000 +0000" stop="20260610050000 +0000" channel="GB News">
     <title lang="en">Patrick Christys Tonight Late...</title>
     <desc lang="en">Edition. Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.(n)</desc>
   </programme>
-  <programme start="20260527050000 +0000" stop="20260527083000 +0000" channel="GB News">
+  <programme start="20260610050000 +0000" stop="20260610083000 +0000" channel="GB News">
     <title lang="en">Breakfast with Eamonn and Ellie</title>
     <desc lang="en">Join Eamonn Holmes &amp; Ellie Costello to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.(n)</desc>
   </programme>
-  <programme start="20260527083000 +0000" stop="20260527110000 +0000" channel="GB News">
+  <programme start="20260610083000 +0000" stop="20260610110000 +0000" channel="GB News">
     <title lang="en">Britain's Newsroom</title>
     <desc lang="en">Andrew and Miriam present Monday to Thursday mornings. When the news happens, it happens here. GB News brings you the biggest stories and the answers you need from across the UK.(n)</desc>
   </programme>
-  <programme start="20260527110000 +0000" stop="20260527140000 +0000" channel="GB News">
+  <programme start="20260610110000 +0000" stop="20260610120000 +0000" channel="GB News">
+    <title lang="en">PMQs Live</title>
+    <desc lang="en">Prime Minister's Questions as Sir Keir Starmer and Kemi Badenoch go head to head in the House of Commons.(n)</desc>
+  </programme>
+  <programme start="20260610120000 +0000" stop="20260610140000 +0000" channel="GB News">
     <title lang="en">Good Afternoon Britain</title>
     <desc lang="en">Tackling the big stories from all angles and perspectives. Weekdays from midday, Tom Harwood and Emily Carver bring you the most compelling stories from across the United Kingdom.(n)</desc>
   </programme>
-  <programme start="20260527140000 +0000" stop="20260527170000 +0000" channel="GB News">
+  <programme start="20260610140000 +0000" stop="20260610170000 +0000" channel="GB News">
     <title lang="en">Martin Daubney</title>
     <desc lang="en">Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.(n)</desc>
   </programme>
-  <programme start="20260527170000 +0000" stop="20260527180000 +0000" channel="GB News">
+  <programme start="20260610170000 +0000" stop="20260610180000 +0000" channel="GB News">
     <title lang="en">Dewbs &amp; Co</title>
     <desc lang="en">Plain-speaking, straight-talking - Michelle delivers her individual take on the day's news.(n)</desc>
   </programme>
-  <programme start="20260527180000 +0000" stop="20260527190000 +0000" channel="GB News">
+  <programme start="20260610180000 +0000" stop="20260610190000 +0000" channel="GB News">
     <title lang="en">Farage</title>
     <desc lang="en">Nigel Farage doesn't hold back in his GB News prime-time show. Hear his views and give your own in an hour of discussion and debate. Join Nigel as he takes on the big stories other media won't touch.(n)</desc>
   </programme>
-  <programme start="20260527190000 +0000" stop="20260527200000 +0000" channel="GB News">
+  <programme start="20260610190000 +0000" stop="20260610200000 +0000" channel="GB News">
     <title lang="en">Jacob Rees-Mogg's State Of The Nation</title>
     <desc lang="en">Join Jacob for his unique and unmissable take on the day's news.(n)</desc>
   </programme>
-  <programme start="20260527200000 +0000" stop="20260527220000 +0000" channel="GB News">
+  <programme start="20260610200000 +0000" stop="20260610220000 +0000" channel="GB News">
     <title lang="en">Patrick Christys Tonight</title>
     <desc lang="en">Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.(n)</desc>
   </programme>
-  <programme start="20260527220000 +0000" stop="20260527230000 +0000" channel="GB News">
+  <programme start="20260610220000 +0000" stop="20260610230000 +0000" channel="GB News">
     <title lang="en">Patrick Christys Tonight Late Edition</title>
     <desc lang="en">Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.(n)</desc>
   </programme>
-  <programme start="20260527230000 +0000" stop="20260528020000 +0000" channel="GB News">
+  <programme start="20260610230000 +0000" stop="20260611020000 +0000" channel="GB News">
+    <title lang="en">The Late Show Live</title>
+    <desc lang="en">Live from Washington DC, Bev Turner and Ben Leo bring you the latest from the US and what it means for Britain.(n)</desc>
+  </programme>
+  <programme start="20260611020000 +0000" stop="20260611040000 +0000" channel="GB News">
+    <title lang="en">Patrick Christys Tonight</title>
+    <desc lang="en">Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.(n)</desc>
+  </programme>
+  <programme start="20260611040000 +0000" stop="20260611050000 +0000" channel="GB News">
+    <title lang="en">Patrick Christys Tonight Late...</title>
+    <desc lang="en">Edition. Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.(n)</desc>
+  </programme>
+  <programme start="20260611050000 +0000" stop="20260611083000 +0000" channel="GB News">
+    <title lang="en">Breakfast with Stephen and Ellie</title>
+    <desc lang="en">Join Stephen Dixon and Ellie Costello to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.(n)</desc>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611110000 +0000" channel="GB News">
+    <title lang="en">Britain's Newsroom</title>
+    <desc lang="en">Andrew and Miriam present Monday to Thursday mornings. When the news happens, it happens here. GB News brings you the biggest stories and the answers you need from across the UK.(n)</desc>
+  </programme>
+  <programme start="20260611110000 +0000" stop="20260611140000 +0000" channel="GB News">
+    <title lang="en">Good Afternoon Britain</title>
+    <desc lang="en">Tackling the big stories from all angles and perspectives. Weekdays from midday, Tom Harwood and Emily Carver bring you the most compelling stories from across the United Kingdom.(n)</desc>
+  </programme>
+  <programme start="20260611140000 +0000" stop="20260611170000 +0000" channel="GB News">
+    <title lang="en">Martin Daubney</title>
+    <desc lang="en">Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.(n)</desc>
+  </programme>
+  <programme start="20260611170000 +0000" stop="20260611180000 +0000" channel="GB News">
+    <title lang="en">Dewbs &amp; Co</title>
+    <desc lang="en">Plain-speaking, straight-talking - Michelle delivers her individual take on the day's news.(n)</desc>
+  </programme>
+  <programme start="20260611180000 +0000" stop="20260611190000 +0000" channel="GB News">
+    <title lang="en">Farage</title>
+    <desc lang="en">Nigel Farage doesn't hold back in his GB News prime-time show. Hear his views and give your own in an hour of discussion and debate. Join Nigel as he takes on the big stories other media won't touch.(n)</desc>
+  </programme>
+  <programme start="20260611190000 +0000" stop="20260611200000 +0000" channel="GB News">
+    <title lang="en">Jacob Rees-Mogg's State Of The Nation</title>
+    <desc lang="en">Join Jacob for his unique and unmissable take on the day's news.(n)</desc>
+  </programme>
+  <programme start="20260611200000 +0000" stop="20260611220000 +0000" channel="GB News">
+    <title lang="en">Patrick Christys Tonight</title>
+    <desc lang="en">Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.(n)</desc>
+  </programme>
+  <programme start="20260611220000 +0000" stop="20260611230000 +0000" channel="GB News">
+    <title lang="en">Patrick Christys Tonight Late Edition</title>
+    <desc lang="en">Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.(n)</desc>
+  </programme>
+  <programme start="20260611230000 +0000" stop="20260612020000 +0000" channel="GB News">
     <title lang="en">The Late Show Live</title>
     <desc lang="en">Live from Washington DC, Bev Turner and Ben Leo bring you the latest from the US and what it means for Britain.(n)</desc>
   </programme>
